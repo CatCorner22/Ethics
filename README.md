@@ -2,4 +2,4 @@
 
 Knowledge-base materials for ethics, governance, and internal control.
 
-- [Internal controls, failure modes, and CPA theft of client funds](docs/internal-controls-knowledge-base.md) — cited U.S. taxonomy of control categories and failures, plus real CPA/bookkeeper theft channels and preventive controls.
+- [Internal controls knowledge base (United States)](docs/internal-controls-knowledge-base.md) — comprehensive, cited article: control categories, failure types, U.S. population evidence, and a dedicated section on CPA/bookkeeper theft from clients with preventive controls.
