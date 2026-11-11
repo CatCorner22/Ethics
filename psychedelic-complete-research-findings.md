@@ -1,7 +1,7 @@
 # Complete psychedelic ethics research findings
 
 **Date of this synthesis:** 11 November 2026 (America/New_York).  
-Primary web sources for Pass 4 were retrieved through **11 November 2026**. Pass 5 live-checked `[verify]` flags and added societies, international/equity, and gap analysis on the same date. Registry and docket status can lag; NCT records, FDA.gov, and college pages remain authoritative.
+Primary web sources for Pass 4 were retrieved through **11 November 2026**. Pass 5 live-checked `[verify]` flags and added societies, international/equity, and gap analysis on the same date. A **11 November 2026 media-criticism companion** live-searched journalism, documentaries, podcasts, and field critics that were missing or only named in passing in the Cover Story inventory; it does not rewrite this file. Registry and docket status can lag; NCT records, FDA.gov, and college pages remain authoritative.
 
 **Disclaimer.** This document is a research synthesis of publicly available professional codes, regulator materials, academic papers, journalism, podcasts, and two companion best-practices files. It is **not legal advice**, **not medical advice**, **not a professional code**, not a clinical guideline, and not an authorization to possess, prescribe, or administer controlled substances. Licensed professionals remain bound by their own statutes, regulations, and codes of ethics. Company press is not an FDA action. Law vs proposal vs guidance is tagged below. Cover Story and related media claims are inventoried as alleged, admitted, video-documented, or regulator-confirmed—this document does not adjudicate them.
 
@@ -16,6 +16,7 @@ This file is meant to stand alone. A reader should not need the original chat. I
 | [`psychedelic-ethics-research-chat.md`](psychedelic-ethics-research-chat.md) | Chat export of Passes 1–4 (2, 5, and 10–11 November 2026). Track A / Track B; 24 concepts; how Pass 4 tightened those concepts. |
 | [`research-notes/fda-and-jurisdictions.md`](research-notes/fda-and-jurisdictions.md) | FDA/DEA 2026 stack, late-stage pipeline with NCT IDs, Oregon / Texas / Canada / Australia / New Zealand (law vs proposal vs guidance). |
 | [`research-notes/youtube-podcasts-criticisms.md`](research-notes/youtube-podcasts-criticisms.md) | Cover Story Season 1 episode-level inventory; YouTube/podcasts; criticism taxonomy A–R. |
+| [`psychedelic-media-criticism-review.md`](psychedelic-media-criticism-review.md) | Companion (11 Nov 2026): later/adjacent investigative journalism, documentaries, podcasts, op-eds, and field critics; **NEW vs already-in** tags. Do not treat as a Cover Story re-dump. |
 | [`research-notes/journals-and-national-codes.md`](research-notes/journals-and-national-codes.md) | ~62 papers/books/consensus statements by theme; national codes; 18-family taxonomy. |
 | [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md) | Per-drug recommended practices (PR #3). Pass 5 applied citation/scheduling corrections; remaining **[still unverified]** items are listed below. |
 | [`psychedelic-best-practices-process.md`](psychedelic-best-practices-process.md) | Process-level practices (consent timing, recording, chaperones, cooling-off, aftercare, complaints, provider wellbeing). Same Pass 5 corrections. |
@@ -295,6 +296,8 @@ Colorado (adjacent, not a core five-jurisdiction refresh but used in codes/best 
 ---
 
 ## Media, Cover Story Season 1, YouTube/podcasts, criticism taxonomy
+
+**Companion (do not skip).** A second live media pass (11 Nov 2026) is in [`psychedelic-media-criticism-review.md`](psychedelic-media-criticism-review.md). This section still holds the Cover Story Season 1 inventory and taxonomy A–R. The companion is for **what is new or under-cited as named journalism**: NYT 2026 medical-tourism deaths; Compass Phase 3 hype vs modest MADRS; Atlantic/Science on dropping psychotherapy after the Lykos CRL; Quartz/NYT Compass patents; Willamette Week Oregon closures and 2026 fee hikes; Undark ketamine/psilocybin mismatch; *JAMA Network Open* 2026 retreat safety; Jules Evans 2025 death investigations; ABC Four Corners / TGA lobbying; Guardian peyote and the 2025 church boom. It does **not** replace this section and does not reopen a Pass 6 research track.
 
 ### What Cover Story is
 
@@ -967,6 +970,7 @@ Numbered leftovers **33–99** below are documentation gaps, proposals, or live 
 - [`psychedelic-ethics-research-chat.md`](psychedelic-ethics-research-chat.md) — Passes 1–4 chat export; 24 concepts; Track A/B; selected URL list.
 - [`research-notes/fda-and-jurisdictions.md`](research-notes/fda-and-jurisdictions.md) — primary FDA/jurisdiction notes and high-value URL list (FDA hub, PDAC minutes, CRL PDF, Compass IR, OHA Year in Review, Texas SB 2308, Canada.ca SAC/SAP, TGA/RANZCP, NZ MoH).
 - [`research-notes/youtube-podcasts-criticisms.md`](research-notes/youtube-podcasts-criticisms.md) — Cover Story transcripts, MAPS statements, PDAC/ICER, selected papers (Noor, Devenot, disability papers, ibogaine cardiotoxicity PMC13155281, integration DOIs).
+- [`psychedelic-media-criticism-review.md`](psychedelic-media-criticism-review.md) — 11 Nov 2026 companion: named-outlet criticism beyond Cover Story (NYT/STAT/Atlantic/Science/ABC/WW/Undark/JAMA Network Open/Evans).
 - [`research-notes/journals-and-national-codes.md`](research-notes/journals-and-national-codes.md) — full paper list with DOIs; code URLs (APA, CPA, ACA, RANZCP, ANA, AAMFT, NAADAC, AAPA, APC, TCPS 2, NHMRC 2025, NEAC, Common Rule, MCNZ, KAP).
 - [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md) — per-drug file with Pass 5 citation/scheduling corrections.
 - [`psychedelic-best-practices-process.md`](psychedelic-best-practices-process.md) — process file with Pass 5 citation corrections.

@@ -2,7 +2,7 @@
 
 Research notes from a chat on medical, therapy, legal, and psychedelic-medicine ethics for licensed professionals in the USA, Canada, Australia, and New Zealand.
 
-**Complete standalone synthesis:** [psychedelic-complete-research-findings.md](psychedelic-complete-research-findings.md) (Passes 1–5, 24 concepts, FDA/jurisdictions/media/journals/codes, best practices with Pass 5 corrections, live `[verify]` audit 25/12/3, and gap analysis). **There is currently no national or international binding ethics code specific to medical psychedelic use.**
+**Complete standalone synthesis:** [psychedelic-complete-research-findings.md](psychedelic-complete-research-findings.md) (Passes 1–5, 24 concepts, FDA/jurisdictions/media/journals/codes, best practices with Pass 5 corrections, live `[verify]` audit 25/12/3, and gap analysis). **Media-criticism companion (not a Cover Story re-dump):** [psychedelic-media-criticism-review.md](psychedelic-media-criticism-review.md). **There is currently no national or international binding ethics code specific to medical psychedelic use.**
 
 See [psychedelic-ethics-research-chat.md](psychedelic-ethics-research-chat.md) for the full export (four research passes, 24 proposed practice concepts, source map, and the two-track Track A / Track B framework).
 
