@@ -9,7 +9,8 @@ Not a professional code, statute, or legal advice.
 
 - Original request and first two research passes: 2 November 2026
 - Third research pass: 5 November 2026
-- This markdown export: 5 November 2026
+- First markdown export: 5 November 2026
+- Fourth research pass (FDA, jurisdictions, media, journals, national codes): 10–11 November 2026
 
 ---
 
@@ -31,7 +32,11 @@ Not a professional code, statute, or legal advice.
 
 > Please generate a MD file of all of this chat
 
-This file is the response to request 4. The sections below are the substance of requests 1–3.
+This file began as the response to request 4. Pass 4 (request 5) is appended below; the numbered concepts remain 1–24, tightened rather than replaced.
+
+### 5. 10 November 2026 (America/New_York)
+
+> Continue the ethics research: FDA-regulated trials and what is actually approved; refresh Oregon, Texas, Canada, Australia, and New Zealand (law vs proposal vs guidance); Cover Story Season 1 plus YouTube/podcast criticisms of psychedelic medicine; bioethics and philosophy journals; national professional ethics codes in the USA, Canada, Australia, and New Zealand. Merge into the export. Keep the research-notes files as source appendices.
 
 ---
 
@@ -39,13 +44,14 @@ This file is the response to request 4. The sections below are the substance of 
 
 Licensed psychedelic care should keep the ethical **floor of medicine and law** (honest indication, capacitous consent, non-exploitation, safety, confidentiality) and add duties ordinary prescribing does not cover: hours-long reduced autonomy, suggestibility, touch, and a clear choice between **monitored dosing (Track A)** and **psychotherapy (Track B)**.
 
-Three research passes built the same framework:
+Four research passes built the same framework:
 
 | Pass | What was added |
 | --- | --- |
 | 1 | AMA, CMA, Belmont, APA/CPA/ACA therapy codes, ABA/FLSC legal ethics, MAPS, JAMA/Banbury, HOPE, Alberta 2023, Oregon, Colorado, Health Canada SAP/trials; 14 concepts |
 | 2 | Psychiatry (APA), nursing, pharmacy, social work, CRPO, FSMB, FDA MDMA PDAC, Australia TGA/RANZCP, Helsinki 2024, Celidwen eight Rs, transformative consent, special populations; concepts 15–20 |
 | 3 | CANMAT, Health Canada SAC 2026, CAP Alberta PAPT guideline, CPSBC ketamine, CPHA public health, 2025–26 literature, ibogaine cardiac ethics, religious-exemption law, support vs psychotherapy; concepts 21–24 |
+| 4 | FDA/DEA 2026 stack (no classic-psychedelic approval; COMP360 NDA; MDMA CRL/refile; ibogaine RFI); Oregon dual licensure; Texas ibogaine research law vs failed psilocybin bills; Canada SAC as brake; Australia May 2026 AP recommendations; NZ named-psychiatrist authorisation; Cover Story S1 + media criticisms; 62-paper journal synthesis; 18-family national-code taxonomy. Concepts 1–24 **tightened**, not replaced. Source appendices in `research-notes/`. |
 
 ---
 
@@ -290,6 +296,198 @@ Mental-health professional (intake, prep, in-session psych support, integration,
 
 ---
 
+## Pass 4 — 10 November 2026 (America/New_York): FDA trials, jurisdictions, media, journals, and national codes
+
+**Cutoff of primary web sources:** 11 November 2026. Registry status can lag. Not legal advice, not a professional code.
+
+**Appendices (keep in the repo):** [research-notes/fda-and-jurisdictions.md](research-notes/fda-and-jurisdictions.md); [research-notes/youtube-podcasts-criticisms.md](research-notes/youtube-podcasts-criticisms.md); [research-notes/journals-and-national-codes.md](research-notes/journals-and-national-codes.md).
+
+### User request this pass
+
+Continue the ethics research with four new strands and merge them into this export: (1) FDA-regulated trials and what is actually approved; (2) Oregon, Texas, Canada, Australia, New Zealand — **law vs proposal vs guidance**; (3) Cover Story Season 1 (*Power Trip*) plus YouTube/podcast criticisms; (4) bioethics/philosophy journals and national professional ethics codes (USA, Canada, Australia, New Zealand; UK as template). Do not paste entire codes. Update the 24 concepts / Track A vs Track B only where new constraints appear.
+
+Source tags used in the FDA/jurisdiction notes: **LAW**, **GUIDANCE**, **FDA ACTION**, **PROPOSAL**, **COMPANY**, **REGISTRY**, **COMMENTARY**.
+
+### FDA / trial landscape (still no approved classic psychedelic)
+
+**As of 11 November 2026, FDA has not approved** MDMA, psilocybin, LSD, DMT, 5-MeO-DMT (mebufotenin), ibogaine, mescaline, or 2C-B as medicines. Those remain **Schedule I** unless and until FDA approval plus DEA rescheduling. Compass’s COMP360 NDA announcement itself says a US launch would still need DEA rescheduling after any approval.
+
+**Approved comparators (not classic psychedelics):** esketamine nasal spray (Spravato) for TRD / suicidal-ideation depression under REMS; racemic ketamine as an anesthetic, with psychiatric use largely **off-label** (Schedule III).
+
+**2026 federal policy stack (executive/agency, not approvals):** 18 Apr EO accelerating research including ibogaine; 24 Apr Commissioner’s National Priority Vouchers (psilocybin TRD, psilocybin MDD, methylone PTSD) plus clearance of a US **Phase 1 noribogaine** IND (DemeRx NB) — IND proceed ≠ safety/efficacy finding; July 2026 **final** guidance *Psychedelic Drugs: Considerations for Clinical Investigations*; September Part 15 hearing; **5 Oct ibogaine RFI** (comments through 20 Nov 2026) — starting dose not exceeding 10 mg/kg, sequential dose-ascending, cardiac/neurologic monitoring, independent safety oversight. CDER language: “serious safety concerns,” especially cardiac.
+
+**Late-stage US-relevant pipeline (COMPANY + REGISTRY, not marketing approval):**
+
+| Program | Status (this pass) | Ethics note |
+| --- | --- | --- |
+| **COMP360** (Compass, synthetic psilocybin) TRD | **NDA completed 9 Nov 2026.** COMP005 completed; COMP006 active, not recruiting. Breakthrough + Apr 2026 voucher. Modest MADRS deltas vs placebo/1 mg; launch targeted H1 2027 **if** approved and rescheduled. | Review will be read against the MDMA unblinding/support template. Pricing commentary (~$17k–$22k/dose) is COMMENTARY. |
+| **Usona PSIL201** MDD | P3 uAspire active, not recruiting. NDA **reported** 2 Nov 2026 by trade press; Usona declined comment — treat filing as **not FDA-confirmed**. | Nonprofit sponsor; same unblinding problem. |
+| **CYB003 / HLP003** (deuterated psilocin) | P3 APPROACH completed per registry; NDA targeted **2028** (COMPANY). | Shorter-acting analog does not waive NOSC duties. |
+| **Lykos → Resilient MDMA** PTSD | 2024 PDAC 9–2 / 10–1 nos; **9 Aug 2024 CRL** (additional Phase 3 requested). Aug 2026 **NDA resubmitted without a new Phase 3** (COMPANY/trade). FDA acceptance/PDUFA **not** confirmed on FDA.gov. | Highest-resolution US critique of PAT as a **drug+therapy combination**. Resubmission is a bet against the CRL’s “most efficient path.” |
+| **DT120 / MM120** (LSD, Definium/MindMed) GAD/MDD | Three P3 programs; company: GAD filing planned H1 2027. Breakthrough reported. **Not approved.** | Same combination-product questions. |
+| **BPL-003** (intranasal 5-MeO-DMT) | P2b completed; Lilly acquisition of AtaiBeckley closed 11 Sep 2026 (COMPANY). | Short session ≠ weak suggestibility window. |
+| **GH001** (inhaled 5-MeO-DMT) | FDA **clinical hold lifted 5 Jan 2026** (CMC/device). | Hold was CMC, not ethics — still no approval. |
+| **TSND-201** methylone PTSD | P3 recruiting; Apr 2026 voucher. Not a 5-HT2A classic. | Do not treat voucher as efficacy. |
+| **Ibogaine / noribogaine** | Noribogaine US P1 IND allowed Apr 2026. Oral ibogaine P1/2 completed (atai). Texas IMPACT is **state-funded FDA-path research**, not treatment. | Cardiac ethics is now **regulator language** (RFI), not only NGO commentary. |
+
+**CRL deficiencies that any US ethics code must assume are live:** safety-data reliability (sites trained not to report “positive” effects as AEs); durability (MAPP1/2 stop at week 18); generalizability (~40% prior MDMA use; expectancy); FDA’s preferred new RCT with blinded long-term follow-up, all abuse-related AEs, independent audit of session recordings; unresolved whether psychotherapy is **necessary** (factorial / evidence-based therapy vs MAPS method). **Ethics signal:** a code that assumes “FDA will bless the MAPS dyad” is outdated.
+
+Aggregator counts (PsychoactiveMap 31 Oct 2026): 521 US-linked psychedelic/ketamine psychiatric studies; treat as indexes, not FDA.
+
+### Jurisdiction refresh (law vs proposal vs guidance)
+
+**Oregon — LAW: supported adult-use, not medical prescribing.** ORS 475A / OHA Oregon Psilocybin Services (not OLCC). Age 21+. Facilitators are a **state license**, not a medical license unless dually licensed. OAR 333-333 (24 Oct 2025 text, effective 1 Jan 2026): no take-home product; sessions finish by midnight; default **non-directive** facilitation.
+
+- **HB 2387 (2025) LAW — dual licensure:** facilitators who also hold one of seven Oregon professional licenses (LPC/LMFT, naturopathic, psychology, medical, nursing, social work, pharmacy) may provide **health or behavioral-health services during preparation and integration** after notifying OPS and the client. Administration remains facilitated adult use of a **federally Schedule I** substance. This **bridges** frames without converting OPS into a prescription system.
+- **2025 Year in Review:** 18,868 products sold; 5,935 clients with administration sessions; 13 EMS contacts (0.2%); 0 regulated-model product recalls. Adverse behavioral 6; severe behavioral 7; adverse medical 13; severe medical 2. Nearly half of data-sharing clients from other US states (tourism). Low EMS ≠ FDA pharmacovigilance and does not capture delayed psychological harm.
+- **COMMENTARY:** mystery-shopper (Jul–Sep 2025, 22 centers) found inconsistent eligibility / “this is not treatment” information. Non-directive facilitators without a health license are **not** diagnosing PTSD/depression even when clients list those reasons.
+
+**Texas**
+
+- **LAW: SB 2308 (signed 11 Jun 2025)** — HHSC grant path for **FDA IND** ibogaine trials; $50M state match contemplated. IMPACT consortium (UTHealth Houston + UTMB). Mar 2026: no qualifying drug-company match; leaders talked “fully fund.” **Legal tension (COMMENTARY):** statute may still require the private match. This is **not** FDA approval and **not** legal ibogaine treatment outside trials. Ibogaine remains Schedule I federally.
+- **NOT LAW:** HB 4014 / HB 4813 (MDMA/psilocybin/ketamine studies) passed House, **died in Senate HHS**. Psilocybin possession remains a felony. No statewide medical-psilocybin or adult-use framework.
+- **PROPOSAL (not adopted as of May 2026 sources):** TMB 22 TAC Ch. 173 Subch. B parenteral ketamine — clinic registration, delegate caps, on-site monitoring, **ban on home-use parenteral PKT**. Confirm Texas Register before treating as binding.
+
+**Canada**
+
+- **LAW:** classics mostly CDSA Schedule III; MDMA and ketamine Schedule I (CDSA numbering ≠ US). Doors: trials; **SAP** (Jan 2022 FDR amendments for restricted drugs); s.56(1) exemptions.
+- **GUIDANCE — SAP 27 Feb 2023 notice still operative:** authorization is **not** a quality/efficacy finding; patients may not possess/transport; use in presence of practitioner or delegate.
+- **SAC-MHD 2025–26 (consensus on Canada.ca): a brake, not an accelerator.** Investigational therapies including PAT only after **exhaustion of established options**; psychiatrist involvement strongly recommended for unapproved drugs in TRD; psychiatric emergencies do not belong in outpatient psychedelic clinics; rTMS/ECT/IV ketamine/IN esketamine **underused** relative to jumping to investigational psychedelics; DTC marketing of experimental meds may divert patients from established care.
+- **Provincial:** Alberta still the only province with a **licensed PAPT facility regime** (LAW + CPSA accreditation; ketamine guidance Mar 2026). CPSBC ketamine GUIDANCE (IV in accredited facilities). CRPO PAP guideline Oct 2026 (GUIDANCE). CPSO/OHPIP for injectable ketamine premises. **No dedicated 2025–26 CMQ PAT standard located.** CNO: no separate psychedelic-nurse class.
+- **Religious:** specified Santo Daime / UDV ayahuasca s.56 exemptions since 2017; **no general First Nations CDSA exemption** for psilocybin or ayahuasca.
+
+**Australia**
+
+- **LAW (in force 1 Jul 2023):** MDMA for PTSD and psilocybine for TRD are Schedule **8 only** when prescribed by a TGA **Authorised Prescriber** psychiatrist after HREC approval; other uses remain S9. Products remain **unapproved**. TGO 112/113 quality standards from 6 Jan 2025. TGA does not anticipate take-home. State S8 poisons rules still apply.
+- **PROPOSAL / TGA recommendations 26 May 2026 (not yet regulation):** psychiatrist competency via trials and/or experienced-AP supervision; therapy dyad widened (clinical psychologist endorsement, medical, MH nursing, OT) under AP/HREC; AP physically present on-site at administration (not necessarily the entire 8–10 h); medically supervised site details. RANZCP guidance updated May 2026 — **GUIDANCE**, binational college, **does not create NZ prescribing rights**.
+- **Criticisms:** 2023 clinical letter on consultation/indemnity; Mind Medicine Australia alleges overreach, presence bottleneck, PACFA exclusion; Medscape 2026: who may sit in the dyad still contested; AHPRA has no standalone “psychedelic practitioner” class.
+
+**New Zealand**
+
+- **LAW:** psilocybin Class A, MDMA Class B1. No approved medicines. Two pathways: trials, or **named-practitioner authorisation** delegated to Medsafe. Officials (2025 briefing): **do not recommend law change**.
+- **19 Jun 2025:** first non-trial prescribing approval — one Christchurch psychiatrist, TRD, defined protocol, reporting to Medsafe. Narrower than Australia’s AP class.
+- **Research:** EMMAC MDMA for end-stage cancer distress; HRC-funded **marae-based rongoā PAT** for methamphetamine use disorder (endemic fungi as rongoā). NZ is the jurisdiction in this set where **Indigenous protocol is being built into a funded trial**, not only named as a principle. That does not make rongoā psilocybin a licensed medicine.
+
+**Cross-jurisdiction floor:** approved psychiatric classic psychedelics in these five places, as of 11 Nov 2026: **none**. Ketamine/esketamine on existing labels plus off-label ketamine under college rules.
+
+### Cover Story Season 1 and YouTube/podcast criticisms (by category)
+
+**What Cover Story is.** New York Magazine / *The Cut* investigative podcast *Power Trip* (2021–22), co-created by **Lily Kay Ross** and **David Nickles**, co-produced with **Psymposia**. Adversarial follow-up to the Pollan-era renaissance narrative. Print/video companions: Monroe, “Sexual Assault in the Amazon”; Rosin’s video essay publishing MAPS Phase 2 session footage; Ross & Nickles, “The Trials of Rick Doblin.” Claims below are tagged **alleged / admitted / video-documented / regulator-confirmed** in the appendix; this synthesis is not a finding that every allegation is proven.
+
+**Season arc.** Part I: underground (Ross’s 2012 Ecuador assault; Françoise Bourzat’s **on-tape admission** of sexual relationships with clients; “Susan”/Eyal Goren **alleged** entanglement with texts/checks, **denied**; Roquet “bad trip” lineage leaking into training). Part II: aboveground MAPS MDMA trials — Meaghan Buisson, Mel, Leah coded as improved and describing devastation. Mel’s metaphor: **open-heart surgery, then walked away with the chest still open.**
+
+| Category | What commentators actually worry about | Status / ethics takeaway |
+| --- | --- | --- |
+| **Sexual boundaries** | Buisson session **video** (pinning, spooning, gagging with a towel, “spread your legs”) in a Phase 2 trial; Yensen sexual relationship **MAPS-acknowledged**; MAPS **did not watch tapes for years** (spokesperson to CBC); Ross assault + community “quiet, not now”; Bourzat admission; Goren alleged. Mechanism: 6–8h sessions, MDMA trust, “nurturing touch” manuals, often one unlicensed co-therapist. | Video-documented in-session conduct + acknowledged post-session sex. Criminal assault **alleged, settled**. Track B must assume this is a **foreseeable misuse of the mechanism** (Villiger & Trachsel REBUS), not a rogue one-off. |
+| **Trial integrity / “political science”** | Phase 2 pooling; therapy black box (2017 manual: 13 modalities may “occur spontaneously”; high adherence not expected); Doblin: MAPS does “political science”; 16-issue FDA complaint; Mithoefer: Phase 2 supervision “not as robust as we need.” | ICER 2024: evidence **insufficient**. PDAC/CRL: **regulator-confirmed** refusal to approve on that record. Not proven: wholesale CAPS fabrication. |
+| **Suggestibility / unblinding / false memory** | Everyone can tell MDMA from placebo; “trust the process” / inner healer as obedience training; Doblin: MDMA may increase suggestibility; Roquet/ayahuasca recovered-memory style. | Functional unblinding is now FDA’s own language. Consent must name influence, not only drug tox. |
+| **Consent failures** | SSRI washout; hard to leave; “trust the process” when suicidal; participants not shown what therapy would look like; intoxicated “consent” to touch; pediatric plans flagged as premature. | Matches concept 2 freeze rule. Video as the thing patients should know therapy can look like. |
+| **Aftercare** | Mel’s open-heart metaphor; Dutch truffle-retreat analog of post-ecstatic blues; integration on paper vs abandonment in life. | Tightens concepts 13 and 24. Clinical “success metrics” can miss devastation. |
+| **Guru / cult / complaint suppression** | Charisma, inner circle, “complainers group” (Sara Ahmed); Adams on experiential verification (the trip “proves” the facilitator is wise); Conspirituality on VC + shaman-influencers. | Anti-capture (concept 4) plus independent complaint paths (14). |
+| **Underground vs clinical** | Part I: no board. Part II: cameras, IRB, FDA — and still pinning and sex. Mel’s reversal: underground humility felt safer than clinical omniscience. MAPS: Yensen was rogue, data excluded. Cover Story: **manual and culture** made the rogue possible. | Neither frame is automatically safe. Concept 23 (don’t blur frames) does not mean “clinic = safe.” |
+| **Ibogaine cardiac** | hERG/QT, TdP, deaths **without** prior heart disease; CYP2D6; forensic series; Ontario negligence (treatment despite borderline QT). Millar admits QT but argues screening suffices. Congress/veteran rhetoric often **minimizes** TdP. | Now in **FDA RFI** and **Texas bill analysis**. Concept 22 floor. Microdosing does not waive ECG. |
+| **Ketamine diversion** | Matthew Perry: clinic **refused** dose escalation → illicit/compounded ketamine → death. CNN “Wild West”; Oregon strict on psilocybin, lax on ketamine AE reporting; K-bladder, dependence, telehealth lozenges. FDA warnings on compounded ketamine. | TMB proposed PKT rules; CPSBC already treats ketamine as sedation + diversion. Concept 18/22. |
+| **Medicalization** | Devenot/Psymposia/Pace: FDA path bifurcates supply and recodes unapproved use as “abuse.” Mel: medicalization “puts something very powerful into the hands of power.” Counter: Yehuda/Freakonomics and House VA Republicans: only medicalization is politically acceptable. | Track A/B is a **naming** tool, not a claim that medicalization solves abuse. |
+| **Indigenous reciprocity** | Monroe/Ross ayahuasca tourism; Harvard CSWR: “reciprocity” language used to legitimize selling ritual abroad; Celidwen eight Rs as the constructive counterpart; NZ marae trial as design, not branding. | Concept 10. FPIC/benefit-sharing in writing if commercially dependent. |
+| **Equity / disability** | Ifetayo Harvey: MAPS workplace whiteness, priced wellness. Disability: trial exclusion (psychosis, physical disability) **and** ableist “must have taken the drug” training (npj 2024; Banbury: personal use **not** required). | Concept 11 already; do not add experiential-use as a credential. |
+| **Regulatory capture — and the inverse** | Cover Story/Psymposia: MAPS as movement org, Breakthrough PR, SPA as shield. **Inverse (NYT 2025, Andrew Jacobs):** undisclosed Psymposia bloc at PDAC “helped torpedo” a PTSD treatment. KJZZ interview with Jacobs. | Both can be partly true: **weak trial ethics** and **factional public-comment politics**. Neither cleans the Buisson video. Independent (not sponsor-only) training and **external** safety reporting remain the PDAC ask. |
+| **Feminist / conservative strands** | Cover Story as feminist investigation: trauma trials recruit women survivors while marketing male veterans. Conservative: (1) medical-only, anti-counterculture (Miller-Meeks); (2) anti-drug/Christian (low scientific signal); (3) NYT 2025 “left activists killed Lykos” used to **downplay** Buisson. | Veteran-ibogaine politics is not a cardiac waiver. |
+
+**Later fallout still Cover Story’s children:** Health Canada review 2022; FDA “serious concerns” letter; ICER 2024; PDAC livestream 4 Jun 2024; CRL Aug 2024; NYT 2025 capture counter-claim. Cover Story did **not** prove MDMA cannot treat PTSD. It **did** put on the record that the leading program mixed movement fervor, weak video oversight, sexual abuse, measurement that missed devastation, and a psychotherapy FDA does not know how to regulate.
+
+High-signal non-hype audio/video besides Cover Story: FDA PDAC livestream; ICER CEPAC; STAT/Olivia Goldhill; *The Microdose*; Joseph Holcomb Adams (guruism); Seth Mehr (Oregon medical safety); Psychedelics Today *Eyes on Oregon* (cost/equity); Conspirituality 67. Huberman/Pollan/Ferriss are the **hype baseline**, not harms investigations.
+
+### Bioethics / philosophy journal synthesis (themes, not 62 papers verbatim)
+
+Inventory: 62 papers/books/consensus statements in the appendix (JME, AJOB/AJOB Neuroscience, Neuroethics, CQHE, KIEJ, JAMA Network Open, JAMA Psychiatry, JBI, PPP/Perspectives, Philosophy Compass, Frontiers, plus Paul 2014 and Letheby 2021). Grouped:
+
+**1. Transformative experience and consent.** Paul’s epistemic/personal transformation is the engine. **Jacobs (2023):** enhanced disclosure can block trespass but cannot guarantee *values-aligned* choice if values themselves change; preparation primes set. **Smith & Sisti (2021):** consent is possible with *enhanced* disclosure (ego dissolution, metaphysics, touch, rare psychosis). **Villiger (2024):** patients know they want to leave a bad status quo; aspiration (Callard) grounds consent across a course of sessions. **Kious et al. (2024):** limited evidence of Paul’s strict transformation; “consent is impossible” would disable large parts of medicine. **Lee et al.:** advance directives + dynamic consent + relationship before first drug session. **2026 conceptual analysis:** agency is most compromised **acutely**; avoid “psychedelic ethical exceptionalism.” *Practice:* keep concept 2/16; name the Jacobs–Villiger tension in the consent form; freeze optional permissions after ingestion.
+
+**2. Authenticity, identity, belief.** Nielson: authenticity is *intersubjective* — easy for a therapist to colonise. Devenot et al. (KIEJ 2022): “set and setting” steers identity; non-directiveness is often a curated mystical protocol. Timmermann et al. (2021): measurable shifts toward panpsychism lasting ≥6 months. Letheby: therapeutic benefit may ride on self-representation (“comforting delusion” objection). Yaden/Earp/Griffiths vs Rasmussen/Olson: whether the trip is *necessary* is unsettled; do not engineer meaning out by default, do not lock in a high-vulnerability model prematurely. Timmermann/Watts/Dupuis: *apprenticeship* for validating insights without guru capture or “it’s just the drug” epistemic injustice (Zeller 2024).
+
+**3. Therapist power, REBUS, exploitation.** Villiger & Trachsel (JME 2023): if REBUS is right, suggestibility is the **mechanism of benefit and of harm**; “trust, let go, be open” without disclosing dependence is unethical. McNamee, Devenot, Buisson (*JAMA Psychiatry* 2023): the understudied therapeutic component is the highest-risk class; stop routing harms only to the PI. Harrison 2025; Villeneuve & Prescott 2022: unlicensed co-therapists, weak restorative action, “never abandon” vs reported neglect. Kious/Schwartz/Lewis: researcher personal use as confirmatory bias. Emmerich & Humphries / Banbury: **personal psychedelic use not required** for training.
+
+**4. Touch and the body.** HOPE divided on supportive touch; sexual never; two-stage consent as option. Banbury/McGuire: safety always; supportive by shared decision; honor mid-session refusal; conservative honor of **pre-dose refusal** if the intoxicated patient “changes their mind.” Neuroethics 2025/26 qualitative + 2026 practical guidelines: body-map including atypical erogenous zones; nonverbal withdrawal; do not expand consent after dosing (McHerron 2025). FSMB 2020 remains the physician floor.
+
+**5. Indigenous knowledge, medicalization, epistemic injustice.** Celidwen eight Rs; Schenberg on ayahuasca epistemic injustice and Amazon dieback; HOPE/Banbury reparations/reciprocity with recorded disagreement on co-optation vs adaptation; spiritual bypass (Welwood) as using mysticism to avoid trauma work *or* using Indigenous ceremony as a wellness product.
+
+**6. Research ethics, Helsinki, FDA/MDMA, unblinding.** Helsinki 2024: independent consent-takers in dependent relationships; COI in consent. FDA PDAC ethics-inside-benefit–risk. 2025 perspective: FDA says it does not regulate psychotherapy yet counted sexual-violation risk in the **drug’s** benefit–risk — paradigm clash (molecule vs drug×setting). Aday et al.: unblinding fixes (naive-only, concealment) themselves raise Helsinki issues. Sisti et al. on pediatric PAT: exceptional-benefit-only. Otterman (JBI): justice argument to fund anorexia trials rather than protect people out of evidence.
+
+**7. Ketamine, microdosing, support vs psychotherapy.** Three-role ketamine split; KAP Code as MAPS-ported recommended set. Goodwin vs PAT orthodoxy: many “successful” trials used **support**, not named therapy; Richard & Levine 2025 microskills. Ethical stakes: billing, competence, Track A vs B, FDA worry that therapy inflates expectancy. Microdosing: weak RCTs, enhancement fairness, ibogaine microdose still needs cardiac screen.
+
+**8. Scope of medicine, special populations.** AMA *Journal of Ethics* (Nov 2024): TRD vs wellness. CQHE: is meaning-making still *medicine*? Rosenbaum et al.: PAT near MAID (values-shifting drug on a death-hastening path). Military JME: command confidentiality, dual loyalty. Carceral/adolescent/group/couples as in pass 2.
+
+**9. Exceptionalism and hype.** AJOB 2024: distinctive ≠ a separate evidentiary *standard* (do not skip RCTs; do not declare consent impossible). Brittain et al. (JBI Aug 2025, 51 articles): clusters on standards, equity, integrity, appropriation, epistemic justice; gaps: **post-trial care**, no consensus on care models or competencies, weak translation of research ethics into ordinary prescribing. Marks/Cohen: REMS cannot substitute for licensure ethics. “Pollan effect” is itself an informed-consent problem (HOPE §X).
+
+### National codes: 18-family taxonomy, then profession sketches
+
+National (and federated) codes in USA, Canada, Australia, New Zealand; UK GMC as an enforceable-practice template. Association codes bind **members**; licensing colleges/boards bind **practice**. Dual-licensees follow the **stricter** instrument (Colorado facilitator rule; general ethics). Full inventories: appendix. **Do not treat this as the code.**
+
+**Eighteen families** (headings that actually appear across codes, collapsed):
+
+1. Dignity, respect, non-discrimination, cultural safety (incl. Te Tiriti / TRC / no value-imposition)
+2. Beneficence / non-maleficence / patient welfare first
+3. Autonomy, capacity, informed consent, freedom of consent
+4. Confidentiality, privacy, records, compelled disclosure
+5. Competence, scope, innovation, unestablished methods
+6. Loyalty, conflicts, dual/multiple relationships, anti-capture
+7. Sexual boundaries (clocks diverge: ~2y APA psychology; 5y ACA/CRPO; lifetime AAMFT/MAPS)
+8. Touch / physical contact (almost absent from medical/nursing except ordinary care; NASW 1.10; PAT specialty three-tier)
+9. Abandonment, continuity, interruption, termination, coverage
+10. Impairment (practitioner; analogically the patient’s NOSC — ABA 1.14)
+11. Honesty, advertising, fees, records as property
+12. Research, innovation, evidence, equipoise
+13. Safety, environment, collaboration, most-responsible clinician
+14. Justice, access, public health, stewardship, environment
+15. Accountability, self-regulation, complaints, mandatory reporting
+16. Education, supervision, students
+17. Technology, distance practice, social media, recording
+18. Special populations and dependent relationships
+
+**Compact profession map** (category → concepts; **B** = binding on members or registrants as stated; **R** = recommended / model / specialty):
+
+| Profession | Instruments (B/R) | Compact category → concepts |
+| --- | --- | --- |
+| **Medicine** | AMA Code **B** members / used by boards; CMA 2018 **R** (colleges bind); AMA Australia **B** members, Medical Board *Good Medical Practice* **B**; NZMA **R**, MCNZ GMP **B**; GMC 2024 **B** (UK template) | 1–5, 7, 9–15: welfare paramount; capacitous consent (AMA 2.1.1); confidentiality + mandatory-reporting exceptions; non-abandonment; sexual ban with current patients; honesty in ads; research vs off-label. **Silent on touch, NOSC, identity change.** CMA “never exploit” + 2026 anti-racism. |
+| **Osteopathic** | AOA Code **B** members | Same medical floor as AMA; DOs in ketamine clinics still here + state boards. |
+| **Psychiatry** | APA annotations **B** members; CPA position papers **R**; RANZCP Code 2018 **B** members (AU/NZ) | Transference exploitation; enhanced consent to identity-level change (resource document, not the Code); no ballot-box medicine; RANZCP: do not impose values, do not exploit, psychiatrist overall responsibility on TGA AP. Touch not named in the Code. |
+| **Psychology** | APA 2017 **B** members / many boards; CPA 4th ed. **B** members, often **B** at colleges; APS **B** members, PsyBA **B**; NZ ethics **R**, NZPB Conduct **B** from 1 Oct 2026 | 10.01(b) unestablished-technique disclosure; 3.05 dual roles; 5.05 testimonials; sexual: current banned, former ~2y + burden (weaker than MAPS/CRPO/AAMFT). CPA weighted principles; freedom of consent + vulnerable groups. NZ: Te Tiriti constrains medicalization of rongoā. |
+| **Counseling** | ACA 2014 **B** members (revision in progress 2026; **no** adopted ACA psychedelic code); CCPA 2020 **B** members; CRPO **B** in Ontario | Value non-imposition; unestablished interventions extra consent; ACA former-client sex 5 years. CRPO: 5 years + ongoing power imbalance; no undue influence over wills/POAs; RHPA mandatory revocation for specified sexual acts. |
+| **Social work** | NASW 2021 **B** members; CASW 2024 **R**; AASW 2020 **B** members; ANZASW members + SWRB Conduct **B** | NASW 1.06 no religious/political/business exploitation; **1.10 physical contact** (rarest national non-PAT touch rule). Cultural competence 1.05. |
+| **Nursing** | ANA 2025 **R**/standard of conduct; CNA **often B** via provinces; NMBA Conduct **B**; NCNZ **B** | Independent reporting of unsafe PAT clinics; ordinary-care touch **not** PAT-theorised; CNA harm reduction + TRC; NMBA/NCNZ cultural safety. |
+| **Pharmacy** | APhA **R**, state boards **B**; OCP **B**; PSA/PSNZ members + boards **B** | Independent stop; CDS reconciliation; no take-home classics; Spravato-like supervised analog. |
+| **MFT** | AAMFT Code **B** members; revised Code effective 1 Jan 2026 | **Lifetime** sexual ban with former clients and family — closest US therapy clock to MAPS. Consent covers treatments without recognized standards. Couples: who is the client. |
+| **Addiction counseling** | NAADAC/NCC AP **B** members/certificants, effective 1 Jun 2025; CCSA **R** guidance not a license code | Dual-relationship realism; impairment including “mood altering chemicals”; testimonials ban; do not confuse peer-support with clinical PAT. |
+| **PA / NP** | AAPA Guidelines **R** (amended 2024); AANP standards **R**; NPs also ANA + state APRN; AU/NZ NPs via nursing | Same medical floor; ketamine-clinic PAs/NPs have no PAT-specific national text. |
+| **Chaplaincy** | APC Code **B** members/BCCI; CASC etc. de facto via credentialing | **Refrain from imposing doctrinal positions**; sexual misconduct defined broadly. Sharpest national analog to HOPE anti-capture. Import onto PAT teams. |
+| **Law (analog only)** | ABA Model **R** until state adoption **B**; FLSC 2024 model, 13/14 societies **B** | **1.14 diminished capacity**: maintain a normal relationship; protective action only against substantial harm. 1.8(j) sexual ban. Loyalty analog to anti-capture. |
+| **Human-research frameworks** | US Common Rule **B** (federally supported); TCPS 2 **B** Tri-Council; NHMRC National Statement 2025 **B** for HRECs/TGA AP; NEAC **national standards**; Helsinki 2024 template | Independent consent-taker; prisoners/children; TCPS ch. 9 Indigenous research; NHMRC 4.4 unequal relationships; NEAC Māori + vulnerability. |
+
+**Specialty PAT sets (all R unless a college/state rule):** MAPS v4 (touch + lifetime sexual ban; criticised for unlicensed co-therapists and PI-routed complaints); HOPE; Banbury/McGuire; Alberta 2023 Standards **B** in licensed facilities; CAP PAPT 2025; CPSBC ketamine; Oregon OAR / Colorado 4 CCR **B** for facilitators not physicians; TGA AP + RANZCP; Health Canada SAP notices; KAP Code; Celidwen eight Rs.
+
+**Commentators on the codes themselves:** association vs regulator gap; NASW non-ranking vs CPA ranking; risk-management tone (O’Donohue, Teo, Reamer); Hoffman Report / enforcement theatre; silence on NOSC/suggestibility; divergent sexual clocks — PAT commentators argue for the lifetime/MAPS/AAMFT/CRPO pole, not Colorado’s two-year facilitator clock; cultural safety strongest in NZ/AU/Canadian nursing and TCPS 2 ch. 9; exceptionalism trap (AJOB); Brittain 2025 research-to-clinic translation gap.
+
+### How Pass 4 updates the 24 concepts and Track A / Track B
+
+No new numbered concepts. The 24 still sit on top of license ethics. New **constraints** (not optional commentary):
+
+| New constraint | Where it lands | Track A vs B |
+| --- | --- | --- |
+| **Still no approved classic psychedelic; COMP360 NDA and MDMA refile are not licenses to hype** | Tightens **1, 15**. Breakthrough, vouchers, EO, and NDA filing ≠ efficacy. Quote ranges, not “FDA is about to bless this.” | Both. Track A clinics marketing “coming approval” fail honesty as badly as Track B “MAPS protocol.” |
+| **MDMA CRL template (AE valence, durability, recordings audit, is psychotherapy necessary?)** | Tightens **7, 14, 21**. Independent (not sponsor-only) training; consented video as **health-record abuse-deterrent that someone actually watches**; name support vs therapy because FDA asked whether therapy is necessary. | **Track B** especially: do not assume the MAPS dyad is the approvability path. **Track A** must not pretend silence is “the COMP360 method” without saying evidence grade. |
+| **Texas ibogaine: research-funding LAW + FDA RFI cardiac floor** | Tightens **22**. Continuous ECG, crash-capable setting, CYP2D6, dose-ascending ethics. State money ≠ solved tox. Veteran politics is not a waiver. | Both if the molecule is ibogaine/noribogaine. Track A monitoring **is** the therapy for this drug class until proven otherwise. |
+| **Oregon HB 2387 dual licensure** | Tightens **6, 21, 23**. Dual-licensed people may bring clinical skills into **prep/integration only**; administration remains adult-use, non-directive default, **not** a diagnosis. Do not smuggle Track B billing or medical claims into OPS sessions. Follow the **stricter** of OPS rules and the health license. | Dual-licensees occupy a **hybrid**: Track A behavior at administration; limited Track B-like work only where the health license + HB 2387 actually authorise it. |
+| **Health Canada SAC 2026 as brake** | Tightens **8, 15, 19**. Established options first (including underused ECT/rTMS/esketamine); SAP documentation quality; DTC business models as ethics violations, not marketing. | Both. Track A volume clinics are the SAC’s explicit worry. |
+| **Australia May 2026 AP recommendations (not yet regulation) + NZ named-doctor authorisation** | Tightens **17**. Most-responsible psychiatrist on-site at administration (AU recommendation); NZ even narrower (one authorised doctor). RANZCP guidance ≠ NZ rights. | Track B in AU/NZ is psychiatrist-gated unapproved goods, not Oregon-style facilitation. |
+| **Cover Story: touch, video, aftercare** | Tightens **2, 3, 7, 13, 14, 24**. Pre-dose body-map; no expanding touch after dosing; two licensed persons; watch the tapes (or do not record as theatre); plan the integration window as if Mel’s open-heart metaphor is the failure mode; complaint path that leaves the PI/clinic. | Track B: video + two-person default is now a **harm argument**, not only a training preference. Track A: fewer interpretive techniques, **not** fewer aftercare duties. |
+| **Chaplain APC non-imposition + NASW 1.10 + AAMFT lifetime sexual ban** | Tightens **3, 4, 10, 20**. Import chaplain non-proselytization onto medical teams; physical-contact rule exists in social work even without PAT; default sexual clock to the **strictest license in the room** (often lifetime/5y+, never Colorado 2y if a CRPO/AAMFT/MAPS-trained person is present). | Track B transference makes the strict clock non-negotiable. Track A still has hours of reduced autonomy — FSMB “never therapeutic” still applies. |
+| **NYT/Psymposia counter-claim** | Tightens **14** only: external reporting and public comment should disclose affiliations. Does **not** loosen 3, 7, or 15. | Both. |
+| **NZ marae trial / Celidwen vs Oregon tourism** | Tightens **10, 23**. Indigenous protocol as **design** (NZ research) vs branding. Adult-use tourism (48% out-of-state in Oregon data-sharing) is not reciprocity. | Do not launder ceremonial frames into Track A/B billing. |
+
+**Track architecture after pass 4.** Still two tracks, one floor. New operational tests: (i) Can you name the **legal frame** (FDA investigational, SAP, TGA AP, Medsafe named doctor, Oregon adult-use, Texas off-label ketamine, sacramental s.56/RFRA) in one sentence without mixing them? (ii) For this **molecule**, what is the risk floor (ibogaine ECG vs ketamine sedation/diversion vs classic suggestibility)? (iii) Are you doing **support or psychotherapy**, and would a video audit show only what you billed? (iv) Who watches recordings, and where does a complaint go **outside** the building?
+
+---
+
 ## Full proposed concept list (24)
 
 These sit **on top of** existing license ethics (AMA, CMA, APA, CPA, college standards). They are for physicians, NPs, PAs, psychiatrists, and, where relevant, nurses, pharmacists, and psychotherapists on the team.
@@ -310,7 +508,7 @@ Obtain consent only while the patient has decision-making capacity. Cover diagno
 
 **Safety touch** (vitals, prevent fall, stop self-injury) needs no extra permission beyond the general safety plan. **Supportive touch** requires a written pre-dose agreement specifying where, why, who initiates, and stop signals, plus in-the-moment consent. **Sexual touch** (including kissing, cuddling-as-intimacy, genital/chest/mouth contact, atypical erogenous zones) is never permitted. In-session refusal always wins. Pre-dose refusal of supportive touch is not overridden because the intoxicated patient “asks.” After termination, default to the stricter of the health-profession sexual-boundary rule and a multi-year cooling-off (MAPS: never; CRPO/RHPA: five years plus ongoing power imbalance; Colorado facilitators: two years).
 
-*Grounded in:* MAPS 5–6; JAMA consensus; APA psychiatry resource document; FSMB 2020; Neuroethics 2026 qualitative study.
+*Grounded in:* MAPS 5–6; JAMA consensus; APA psychiatry resource document; FSMB 2020; Neuroethics 2026 qualitative study; Cover Story / Buisson session video.
 
 ### 4. Anti-capture: beliefs, money, testimonials, wills
 
@@ -334,7 +532,7 @@ If talk therapy is not part of the service, say so. Acute-session speech is limi
 
 Preparation, dosing support, and integration follow a named method and a therapy consent. Prefer two trained persons during dosing. Training is not solely by a product sponsor. Consented video is a legitimate abuse-deterrent, stored as a health record. Dual prescriber-therapist roles need extra supervision. Alberta psychologists: five years’ independent practice; no medical recommending.
 
-*Grounded in:* Health Canada two-therapist notice; FDA PDAC; MAPS 4; APA 3.05; CAP 2025; RANZCP.
+*Grounded in:* Health Canada two-therapist notice; FDA PDAC; MAPS 4; APA 3.05; CAP 2025; RANZCP; Cover Story / Buisson video (someone must actually watch recordings); MDMA CRL (is psychotherapy necessary?).
 
 ### 8. Fiduciary conflict vs conventional care and vs volume
 
@@ -370,7 +568,7 @@ Borrow ABA 1.14: keep treating the person as a decision-maker for preferences al
 
 Psychedelic care is a course, not a session. Provide coverage through the acute and early integration window. Screen for delayed distress, mania, psychosis, suicidal thinking, and relational rupture. Terminate only with referral. Plan post-trial/post-course care before the first session.
 
-*Grounded in:* MAPS 1; APA 10.09–10.10; Brittain 2025 post-trial-care gap.
+*Grounded in:* MAPS 1; APA 10.09–10.10; Brittain 2025 post-trial-care gap; Cover Story “open-heart surgery” aftercare failure.
 
 ### 14. Accountability that can leave the building
 
@@ -382,7 +580,7 @@ Written policies for consent, touch, abuse reporting, emergency, and quality rev
 
 Update beliefs as evidence accrues. Do not treat breakthrough-therapy labels, media, or state legalization as proof of efficacy. Until a product is approved for the indication, default is research or explicitly labelled off-label/SAP with corresponding consent. Health Canada SAC: established options first.
 
-*Grounded in:* APA psychiatry position and resource document; CANMAT 2023; Helsinki 2024; SAC 2026.
+*Grounded in:* APA psychiatry position and resource document; CANMAT 2023; Helsinki 2024; SAC 2026 (brake: established options first, including underused ECT/rTMS/esketamine); COMP360 NDA and MDMA refile are **not** approvals.
 
 ### 16. Enhanced consent for unknowable and identity-level effects
 
@@ -424,13 +622,13 @@ State in consent whether the dosing window is **psychological support** (safety,
 
 **Ibogaine/noribogaine:** continuous ECG, QT management, CYP2D6 caution, setting that can treat Torsades; deaths have occurred under supervision; microdosing does not waive this. **Ketamine:** treat as sedation/dissociation with diversion control; IV only in accredited facilities where colleges require it. **Classic psychedelics:** psych-rescue, suggestibility, and delayed distress. Match staff, equipment, and exclusion criteria to the molecule, not to a generic “journey” protocol.
 
-*Grounded in:* Brunt 2026; CPSBC ketamine; FDA PDAC cardiac data gap.
+*Grounded in:* Brunt 2026; CPSBC ketamine; FDA PDAC cardiac data gap; FDA ibogaine RFI 5 Oct 2026; Texas SB 2308 (research funding, not treatment).
 
 ### 23. Do not blur medical, sacramental, and adult-use frames
 
 Lawful NAC peyote, UDV/Santo Daime ayahuasca, Oregon/Colorado adult-use, and licensed medical care are different legal and ethical systems. A licensed clinician diagnosing and dispensing does not become a church; a church exemption does not authorize medical claims or off-label psychiatric treatment. Refer across frames without laundering one into another.
 
-*Grounded in:* *Gonzales v. UDV*; Health Canada s.56; JAMA gatekeeping; CPHA intersections.
+*Grounded in:* *Gonzales v. UDV*; Health Canada s.56; JAMA gatekeeping; CPHA intersections; Oregon HB 2387 dual licensure (prep/integration only; administration stays adult-use); NZ Medsafe named-doctor vs TGA AP vs OPS.
 
 ### 24. Aftercare, fees, ads, and virtual limits as ethics
 
@@ -450,7 +648,7 @@ Plan post-dose and post-trial/post-course care before the first session. State u
 
 ---
 
-## Crosswalk (condensed, after three passes)
+## Crosswalk (condensed, after four passes)
 
 | Category | Who already regulates it | Psychedelic increment |
 | --- | --- | --- |
@@ -465,6 +663,10 @@ Plan post-dose and post-trial/post-course care before the first session. State u
 | Records / third parties | Privacy statutes; CAP WCB warning | Psychedelic notes as discoverable |
 | Post-course / post-trial care | Helsinki; Brittain 2025 gap | Integration window and delayed-harm coverage |
 | Public health / illegal market | CPHA; APA harm-reduction talk | Education without assisting illegal practice |
+| FDA combination-product critique | PDAC 2024; CRL 2024; ibogaine RFI 2026 | Unblinding, AE valence, recordings audit, cardiac floor |
+| Adult-use dual licensure | Oregon HB 2387; OAR 333-333 | Clinical skills in prep/integration only; do not medicalize administration |
+| Media harms record | Cover Story S1; ICER; STAT | Touch/video/aftercare as foreseeable, not rogue |
+| National-code taxonomy | 18 families across US/CA/AU/NZ codes | Stricter license in the room; association ≠ regulator |
 | Most-responsible clinician | RANZCP, CPSO ICRC, ketamine three-role split | No virtual-only parenteral dosing |
 | Impaired client | ABA 1.14, FLSC | Hours-long reduced autonomy; honor pre-commitments |
 | Truth-telling / hype | AMA II, APA 5, FDA unblinding, CANMAT | Do not quote unblinded effect sizes as ordinary RCTs |
@@ -525,6 +727,10 @@ Plan post-dose and post-trial/post-course care before the first session. State u
 - “Ethical Complexities and Best Practices in Informed Consent Processes for Psilocybin Services,” *Neuroethics* (2026)
 - Richard & Levine, “What is psychological support in the context of psychedelic clinical trials?” *Psychedelic Medicine* (2025)
 - Ethical Guidelines for Ketamine Clinicians, *Journal of Psychedelic Psychiatry*
+- Villiger, “Psychedelic ethics,” *Philosophy Compass* (2025); Villiger & Trachsel, REBUS vulnerability, *JME* (2023)
+- Devenot et al., “Psychedelic identity shift,” *KIEJ* (2022); McNamee, Devenot, Buisson, *JAMA Psychiatry* (2023)
+- Cover Story: *Power Trip* (NY Mag / Psymposia, 2021–22); Monroe; Rosin video essay; Ross & Nickles on Doblin; NYT Jacobs 2025 (Psymposia/PDAC counter-claim)
+- Pass 4 appendices in this repo: `research-notes/fda-and-jurisdictions.md`; `research-notes/youtube-podcasts-criticisms.md`; `research-notes/journals-and-national-codes.md`
 
 ### Regulators and colleges (practice)
 
@@ -537,7 +743,11 @@ Plan post-dose and post-trial/post-course care before the first session. State u
 - Oregon Psilocybin Services / OAR 333-333-5120 Facilitator Conduct
 - Colorado 4 CCR 755-1 Natural Medicine facilitator rules (2024)
 - FDA Psychopharmacologic Drugs Advisory Committee, 4 June 2024 (midomafetamine / Lykos)
-- TGA authorised prescriber information for MDMA and psilocybin; RANZCP clinical memorandum (June 2023)
+- TGA authorised prescriber information for MDMA and psilocybin; RANZCP clinical memorandum (June 2023); TGA AP-scheme recommendations (26 May 2026, not yet regulation)
+- FDA psychedelic drugs hub (updated 5 Oct 2026); final trial guidance (July 2026); ibogaine RFI Docket FDA-2026-N-10429; Compass COMP360 NDA (9 Nov 2026, COMPANY)
+- Oregon HB 2387 dual licensure; OPS 2025 Year in Review; OAR 333-333 (effective 1 Jan 2026)
+- Texas SB 2308 ibogaine research law; TMB proposed parenteral ketamine rules (May 2026, not adopted in sources dated then)
+- New Zealand Medsafe named-practitioner psilocybin authorisation (19 Jun 2025); MoH briefing H2025068140
 
 ### Public health, law of frames, special populations
 
@@ -565,8 +775,12 @@ The second pass showed licensed psychedelic care is a **team-and-regulator probl
 
 Canadian colleges now specify day-to-day duties: experimental status (CANMAT), psychologists must not recommend the drug (CAP), ketamine-as-sedation (CPSBC), established options first (Health Canada SAC). Four new concepts (21–24): name support vs psychotherapy; drug-class risk floor; do not blur medical/sacramental/adult-use frames; aftercare/fees/ads/virtual limits/compelled records as ethics.
 
+### After pass 4
+
+Still no approved classic psychedelic. COMP360’s NDA and Resilient’s MDMA refile are filings, not licenses. FDA’s MDMA CRL, ibogaine RFI, Oregon dual licensure, Texas ibogaine *research* law, SAC 2026 as a brake, TGA’s unimplemented 2026 AP recommendations, and NZ’s named-doctor authorisation are the live legal map. Cover Story plus PDAC/ICER make touch, video oversight, aftercare, and trial integrity *foreseeable* ethics problems. Journals mostly argue consent is possible if enhanced, and that suggestibility is the therapeutic mechanism—therefore also the abuse mechanism. National codes still do not mention NOSC; the 18-family taxonomy is the floor; PAT specialty documents and the strictest sexual clock in the room are the increment. Concepts 1–24 held; several tightened. Source appendices in `research-notes/`.
+
 ---
 
 ## Disclaimer
 
-This document is a research synthesis of publicly available professional codes, regulator materials, and academic papers as reviewed in November 2026. It is not legal advice, not a substitute for college or board standards, and not an authorization to possess, prescribe, or administer controlled substances. Licensed professionals remain bound by their own statutes, regulations, and codes of ethics.
+This document is a research synthesis of publicly available professional codes, regulator materials, academic papers, journalism, and podcasts as reviewed in November 2026. It is **not legal advice**, **not a professional code**, not a substitute for college or board standards, and not an authorization to possess, prescribe, or administer controlled substances. Law vs proposal vs guidance is tagged in the Pass 4 appendix; company press is not an FDA action. Licensed professionals remain bound by their own statutes, regulations, and codes of ethics. Cover Story and related media claims are inventoried as alleged, admitted, video-documented, or regulator-confirmed in `research-notes/youtube-podcasts-criticisms.md`—this export does not adjudicate them.
