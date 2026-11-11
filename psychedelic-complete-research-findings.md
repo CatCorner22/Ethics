@@ -1,7 +1,7 @@
 # Complete psychedelic ethics research findings
 
-**Date of this synthesis:** 10 November 2026 (America/New_York).  
-Primary web sources for Pass 4 were retrieved through **11 November 2026**. Registry and docket status can lag; NCT records, FDA.gov, and college pages remain authoritative.
+**Date of this synthesis:** 11 November 2026 (America/New_York).  
+Primary web sources for Pass 4 were retrieved through **11 November 2026**. Pass 5 live-checked `[verify]` flags and added societies, international/equity, and gap analysis on the same date. Registry and docket status can lag; NCT records, FDA.gov, and college pages remain authoritative.
 
 **Disclaimer.** This document is a research synthesis of publicly available professional codes, regulator materials, academic papers, journalism, podcasts, and two companion best-practices files. It is **not legal advice**, **not medical advice**, **not a professional code**, not a clinical guideline, and not an authorization to possess, prescribe, or administer controlled substances. Licensed professionals remain bound by their own statutes, regulations, and codes of ethics. Company press is not an FDA action. Law vs proposal vs guidance is tagged below. Cover Story and related media claims are inventoried as alleged, admitted, video-documented, or regulator-confirmed—this document does not adjudicate them.
 
@@ -9,7 +9,7 @@ Primary web sources for Pass 4 were retrieved through **11 November 2026**. Regi
 
 ## How to read this document / provenance
 
-This file is meant to stand alone. A reader should not need the original chat. It folds four research passes plus later best-practices work into one narrative.
+This file is meant to stand alone. A reader should not need the original chat. It folds five research passes plus later best-practices work into one narrative.
 
 | Source | What it contributed |
 | --- | --- |
@@ -17,8 +17,11 @@ This file is meant to stand alone. A reader should not need the original chat. I
 | [`research-notes/fda-and-jurisdictions.md`](research-notes/fda-and-jurisdictions.md) | FDA/DEA 2026 stack, late-stage pipeline with NCT IDs, Oregon / Texas / Canada / Australia / New Zealand (law vs proposal vs guidance). |
 | [`research-notes/youtube-podcasts-criticisms.md`](research-notes/youtube-podcasts-criticisms.md) | Cover Story Season 1 episode-level inventory; YouTube/podcasts; criticism taxonomy A–R. |
 | [`research-notes/journals-and-national-codes.md`](research-notes/journals-and-national-codes.md) | ~62 papers/books/consensus statements by theme; national codes; 18-family taxonomy. |
-| [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md) | Per-drug recommended practices (PR #3 / branch `cursor/psychedelic-best-practices-2a11`). Copied onto this branch. Items marked **[verify]** were **not** live-rechecked when drafted. |
-| [`psychedelic-best-practices-process.md`](psychedelic-best-practices-process.md) | Process-level practices (consent timing, recording, chaperones, cooling-off, aftercare, complaints, provider wellbeing). Same **[verify]** rule. |
+| [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md) | Per-drug recommended practices (PR #3). Pass 5 applied citation/scheduling corrections; remaining **[still unverified]** items are listed below. |
+| [`psychedelic-best-practices-process.md`](psychedelic-best-practices-process.md) | Process-level practices (consent timing, recording, chaperones, cooling-off, aftercare, complaints, provider wellbeing). Same Pass 5 corrections. |
+| [`research-notes/verify-audit-pass5.md`](research-notes/verify-audit-pass5.md) | Live primary-source audit of every `[verify]` / OPEN flag: **25 CONFIRMED / 12 CORRECTED / 3 STILL UNVERIFIED**. |
+| [`research-notes/pass5-societies-cases-jurisdictions.md`](research-notes/pass5-societies-cases-jurisdictions.md) | MAPS/ASKP3/ICEERS/Zendo; APA psychiatry vs psychology; Oregon 22 orders; Colorado DORA vs CBS; AU AP FOI; board cases. |
+| [`research-notes/pass5-international-equity-research.md`](research-notes/pass5-international-equity-research.md) | WHO/INCB/treaties; Nagoya/Gabon ABS; VA/DoD; Lykos research ethics; what no body addresses. |
 | [`README.md`](README.md) | Repo orientation. |
 
 **Source tags** (from the FDA/jurisdiction notes):
@@ -41,8 +44,9 @@ Four research passes built one framework:
 | 2 | 2 Nov 2026 | Psychiatry (APA), nursing, pharmacy, social work, CRPO, FSMB, FDA MDMA PDAC, Australia TGA/RANZCP, Helsinki 2024, Celidwen eight Rs, transformative consent, special populations; concepts 15–20 |
 | 3 | 5 Nov 2026 | CANMAT, Health Canada SAC 2026, CAP Alberta PAPT, CPSBC ketamine, CPHA, 2025–26 literature, ibogaine cardiac ethics, religious-exemption law, support vs psychotherapy; concepts 21–24 |
 | 4 | 10–11 Nov 2026 | FDA/DEA 2026 stack; Oregon dual licensure; Texas ibogaine research law vs failed psilocybin bills; Canada SAC as brake; Australia May 2026 AP recommendations; NZ named-psychiatrist authorisation; Cover Story S1 + media criticisms; 62-paper journal synthesis; 18-family national-code taxonomy. Concepts 1–24 **tightened**, not replaced. |
+| 5 | 11 Nov 2026 | Live `[verify]` audit (25/12/3); citation and stage corrections; societies, cases, jurisdictions; international/Indigenous/veteran/research-ethics inventory; **gap analysis** (unaddressed, conflicts, absent evidence, still unverified, elements of a credible code). Concepts 1–24 **not replaced**. |
 
-Best-practices work (PR #3) did not add numbered ethics concepts. It added operational floors by molecule and by process. Every **[verify]** in those files is listed as **OPEN** in the incomplete/unverified section below.
+Best-practices work (PR #3) added operational floors by molecule and by process. Pass 5 closed most `[verify]` flags; leftovers are in **Pass 5** and the open-items section.
 
 ---
 
@@ -58,7 +62,9 @@ Licensed psychedelic care should keep the ethical **floor of medicine and law** 
 
 **Hard legal floor as of 11 November 2026:** FDA has **not** approved MDMA, psilocybin, LSD, DMT, 5-MeO-DMT (mebufotenin), ibogaine, mescaline, or 2C-B as medicines. Those remain **Schedule I** in the US unless and until FDA approval plus DEA rescheduling. Across Oregon, Texas, Canada, Australia, and New Zealand, approved psychiatric **classic** psychedelics: **none**. Ketamine/esketamine sit on existing anesthetic/REMS labels plus off-label ketamine under college rules.
 
-**Ethics signal from the MDMA record:** FDA’s 2024 PDAC and August 2024 complete response letter (CRL) are the highest-resolution US critique of PAT as a **drug + therapy combination product**. A code that assumes “FDA will bless the MAPS dyad” is outdated. Cover Story Season 1 put sexual misconduct, unwatched session video, aftercare abandonment, and “success on paper / harm in life” on the public record; PDAC and ICER then refused to treat that program as approval-grade evidence. Cover Story did **not** prove MDMA cannot treat PTSD.
+**There is currently no national or international binding ethics code specific to medical psychedelic use.** Existing instruments are profession-general (AMA, APA psychiatry/psychology, RANZCP, college codes), trial-sponsor (MAPS Code v4), membership (ASKP3), underground/defense (ICEERS/ADF), or adult-use facilitator rules (Oregon OAR 333-333, Colorado 4 CCR 755-1). Psychiatry APA 2022 and AMA H-100.943 remain investigational-only. WHO, INCB, WMA Helsinki 2024, UNESCO, CIOMS, VA/DoD CPGs, and FDA guidance do **not** supply a PAT ethics code.
+
+**Ethics signal from the MDMA record:** FDA’s 2024 PDAC and the **8 August 2024** complete response letter (CRL; Lykos announced **9 August 2024**) are the highest-resolution US critique of PAT as a **drug + therapy combination product**. A code that assumes “FDA will bless the MAPS dyad” is outdated. Cover Story Season 1 put sexual misconduct, unwatched session video, aftercare abandonment, and “success on paper / harm in life” on the public record; PDAC and ICER then refused to treat that program as approval-grade evidence. Cover Story did **not** prove MDMA cannot treat PTSD.
 
 ### The 24 concepts (full list)
 
@@ -106,7 +112,7 @@ These sit **on top of** existing license ethics. They are for physicians, NPs, P
 
 **Approved comparators (not classic psychedelics):**
 
-- **Esketamine nasal spray (Spravato, Janssen/J&J)** — FDA-approved for treatment-resistant depression (with oral antidepressant) and for depressive symptoms with acute suicidal ideation; REMS / supervised administration. Best-practices file also notes a later **monotherapy** approval in 2025 **[verify — OPEN]**.
+- **Esketamine nasal spray (Spravato, Janssen/J&J)** — FDA-approved for treatment-resistant depression (with oral antidepressant) and for depressive symptoms with acute suicidal ideation; REMS / supervised administration. sNDA 211243/S-016 signed **17 January 2025** expanded the indication to **monotherapy** of Spravato for TRD.
 - **Racemic ketamine** — FDA-approved as an anesthetic; psychiatric use is largely **off-label**. Schedule III, not Schedule I.
 
 FDA hub (updated 5 Oct 2026): [Psychedelic Drugs](https://www.fda.gov/drugs/resources-drugs/psychedelic-drugs).
@@ -137,7 +143,7 @@ Aggregator indexes (not FDA): PsychoactiveMap snapshot **31 Oct 2026** listed **
 
 **FDA ACTION — 4 June 2024 PDAC** (NDA 215455): efficacy **Yes 2 / No 9**; benefits vs risks with proposed REMS **Yes 1 / No 10**. Themes: functional unblinding, expectancy/selection bias, incomplete risk characterization, need for two licensed therapists, independent training, onsite medical staff, ECG/labs/vitals, duration of impairment.
 
-**FDA ACTION — 9 August 2024 CRL.** Requested an **additional Phase 3**. Core deficiencies (paraphrase of FDA letter posted by MAPS):
+**FDA ACTION — 8 August 2024 CRL** (OpenFDA PDF for NDA 215455; Lykos press **9 August 2024**). Requested an **additional Phase 3**. Core deficiencies (paraphrase of FDA letter posted by MAPS):
 
 1. **Safety data reliability:** sites trained **not** to report “positive/favorable” effects as AEs; inspections found unreported AEs; abuse-potential and impairment events must be captured regardless of valence.
 2. **Durability:** MAPP1/MAPP2 stop at week 18; MPLONG inadequate. PTSD is chronic; three-session regimen needs labeled durability / retreatment rules.
@@ -155,7 +161,7 @@ Additional **REGISTRY** examples: historical P2 Canada NCT03485287 **COMPLETED**
 | --- | --- | --- | --- |
 | Voyage | GAD | P3 **ACTIVE_NOT_RECRUITING** | NCT06741228 |
 | Emerge | MDD | P3 **ACTIVE_NOT_RECRUITING** | NCT06941844 |
-| Panorama | GAD (US + Europe) | P3 (company: positive topline 2026) | Confirm on CT.gov / Definium IR (**OPEN**) |
+| Panorama | GAD (US + Europe) | P3 **ACTIVE_NOT_RECRUITING** (n=245) | **NCT06809595** |
 
 Breakthrough Therapy for GAD (2024) and MDD (reported 8 Sep 2026). Company: three positive P3 readouts; GAD filing planned H1 2027. **Not approved.** Academic LSD (mostly Switzerland): AUD NCT05474989 **RECRUITING**.
 
@@ -164,7 +170,7 @@ Breakthrough Therapy for GAD (2024) and MDD (reported 8 Sep 2026). Company: thre
 | Product | Sponsor | Indication | Status |
 | --- | --- | --- | --- |
 | **BPL-003** (intranasal) | Beckley Psytech → AtaiBeckley; **Eli Lilly acquisition closed 11 Sep 2026** (COMPANY/SEC) | TRD | P2b NCT05870540 **COMPLETED**; JAMA 26 Oct 2026 (193 analysed; 12 mg vs 0.3 mg, MADRS day 29 difference −5.3). Open-label NCT05660642 **RECRUITING**. P3 ReConnection guided Q2 2026. End-of-Phase 2 meeting claimed; confirm P3 NCT when posted (**OPEN**). |
-| **GH001** (inhaled) | GH Research | TRD | P2b NCT05800860 **COMPLETED**. PPD and BP-II trials **TERMINATED**. **FDA clinical hold lifted 5 Jan 2026** (CMC/device). Hold had blocked US enrollment. |
+| **GH001** (inhaled) | GH Research | TRD | P2b NCT05800860 **COMPLETED**. PPD and BP-II trials **TERMINATED**. **FDA clinical hold lifted 5 Jan 2026** (CMC/device). Company targets global P3 in 2026; **no GH001 TRD Phase 3 NCT** located 11 Nov 2026 (**STILL UNVERIFIED**). |
 | IV 5-MeO-DMT | University Hospital Basel | Healthy volunteers | P1 **RECRUITING** NCT07444788 — **Switzerland**, not US FDA. |
 
 Short session ≠ weak suggestibility window.
@@ -222,7 +228,7 @@ Hundreds of psychiatric ketamine trials (PsychoactiveMap: 255 US). **Spravato** 
 
 **Criticisms:** mystery-shopper (Jul–Sep 2025, 22 centers) found inconsistent eligibility / “this is not treatment” information (PMC13659005). Prices $15 microdose–$3,500/session; equity vs tourism (PMC13348737). This pass did **not** find an OHA-confirmed death **inside** licensed administration; absence of a finding is not proof of zero harm. Unregulated product recalls remain a stated OHA/CDC concern (2024). Non-directive facilitators without a health license are **not** diagnosing PTSD/depression even when clients list those reasons.
 
-Colorado (adjacent, not a core five-jurisdiction refresh but used in codes/best practices): 4 CCR 755-1 (2024) — consent each session; touch contract; sexual/romantic ban **two years** post-termination; dual-licensees follow the **stricter** code. New Mexico Medical Psilocybin Act (2025) program build-out is **[verify — OPEN]** in the best-practices file.
+Colorado (adjacent, not a core five-jurisdiction refresh but used in codes/best practices): 4 CCR 755-1 (2024) — consent each session; touch contract; sexual/romantic ban **two years** post-termination; dual-licensees follow the **stricter** code. New Mexico Medical Psilocybin Act (SB 219 signed April 2025, effective 20 June 2025): NMDOH goal of first patients by end of December 2026; statute allows implementation through 31 December 2027.
 
 ### Texas
 
@@ -232,11 +238,11 @@ Colorado (adjacent, not a core five-jurisdiction refresh but used in codes/best 
 
 **NOT LAW.** HB 4014 and HB 4813 (MDMA/psilocybin/ketamine studies) passed House, **died in Senate HHS**. Psilocybin possession remains a **felony**. No statewide adult-use or medical-psilocybin framework. No AG opinion found authorizing psilocybin or ibogaine practice.
 
-**PROPOSAL (not adopted as of sources dated May 2026):** Texas Medical Board proposed **22 TAC Chapter 173, Subchapter B, §§173.6–173.18** (Parenteral Ketamine Therapy): mandatory clinic registration (hospice exception); administration limited to physicians and midlevels; delegating physician cap (≤6 delegates or ≤3 clinics); on-site monitoring, ASA moderate-sedation equipment, PMP checks, pregnancy verification, informed consent, time-out; **ban on home-use parenteral PKT**; if physician not on site, staff cannot treat more than two patients at a time. Confirm Texas Register adoption before treating as binding (**OPEN**).
+**PROPOSAL (not adopted).** Texas Medical Board May 2026 proposal of **22 TAC Chapter 173, Subchapter B, §§173.6–173.18** (Parenteral Ketamine Therapy) was **withdrawn 29 June 2026** (TRD-202602670). TMB **reproposed §§173.6–173.17** (not .18) in the **10 July 2026** Texas Register. Still **proposed** as of 11 Nov 2026; not listed among rules effective 3 Sep 2026. Substance of the May text (clinic registration, physician/midlevel administration, delegate caps, on-site monitoring, **ban on home-use parenteral PKT**) should not be treated as binding until adopted.
 
 ### Canada
 
-**LAW.** Most classic psychedelics are **CDSA Schedule III** (psilocybin, DMT, LSD, mescaline); **MDMA and ketamine are Schedule I** (CDSA numbering ≠ US). No marketed DIN for psilocybin or MDMA.
+**LAW.** Most classic psychedelics are **CDSA Schedule III** (psilocybin, DMT item 7, LSD, mescaline); **MDMA is Schedule I**; **ketamine is Schedule I, item 14(1)** (listed under phencyclidine — not a “Part 1” label). **5-MeO-DMT is not named** on CDSA Schedules I–III; Health Canada treats it as an NPS whose sale is under the Food and Drugs Act. Ibogaine is not CDSA-scheduled but is on the Prescription Drug List (19 May 2017) and is **not authorized** for use. No marketed DIN for psilocybin or MDMA.
 
 **Three lawful medical/research doors:** (1) clinical trials; (2) **Special Access Program (SAP)** — Jan 2022 FDR amendments allowed restricted drugs (psilocybin, MDMA) via SAP; (3) CDSA **s.56(1)** exemptions (research or religious, case-by-case).
 
@@ -390,7 +396,7 @@ Inventory: **62** distinct papers/books/consensus statements given full or table
 
 **Edward Jacobs (2023), *Frontiers in Psychology*.** Applies Paul to PAT. Enhanced disclosure can block unauthorized bodily trespass but cannot guarantee *values-aligned* choice if values themselves change. Preparation primes “set.”
 
-**Smith & Sisti (2021), *JME*.** Consent is possible with *enhanced* disclosure: ego dissolution, metaphysical or personality change, mental-health risks, therapeutic touch. Research-trial protections will not automatically travel with commercialisation. (Best-practices process file cites this as 2020 **[verify year — OPEN]**; the journals inventory uses 2021.)
+**Smith & Sisti (2021), *JME*.** Consent is possible with *enhanced* disclosure: ego dissolution, metaphysical or personality change, mental-health risks, therapeutic touch. Research-trial protections will not automatically travel with commercialisation. Print: *J Med Ethics* 2021;47(12):807–814; first published online **27 May 2020**.
 
 **Daniel Villiger (2024), *Neuroethics*.** Patients typically know they want to leave a bad status quo. Phenomenal ignorance of “what it will be like” does not block value-aligned choice if the *function* of treatment is understood. Aspiration (Callard) across a course of sessions.
 
@@ -528,7 +534,7 @@ Smith & Appelbaum (2022); Brennan & Belser (2022) on touch; Johnson, Richards, G
 
 ## Best practices by drug (from PR #3)
 
-Copied in full onto this branch as [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md). That file’s own disclaimer: it is **not** a clinical guideline; **[verify]** items were written from memory and **not re-checked** against live sources when drafted (November 2026). Substance is integrated here so this document stands alone.
+Copied onto this branch as [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md). Pass 5 live-checked original `[verify]` flags and applied corrections. Substance is integrated here so this document stands alone.
 
 ### How to read evidence tags
 
@@ -555,28 +561,28 @@ Common limits: small samples, **functional unblinding**, high expectancy, short 
 
 | Drug | US status (federal) | Canada status | Approved indication | Best-evidence role |
 | --- | --- | --- | --- | --- |
-| Psilocybin | Schedule I; breakthrough designations; state programs (OR, CO; NM medical program **[verify]**) | Schedule III CDSA; SAP, trials, s.56 | None | Trial-grade (TRD, MDD, AUD) |
-| MDMA | Schedule I; CRL 2024 | Schedule I CDSA; SAP, trials | None | Trial-grade (PTSD), contested |
-| Ketamine (racemic) | Schedule III; off-label for depression | Prescription (CDSA Sch. I, Part 1 item) **[verify]**; off-label | Anesthesia | Consensus / off-label; strongest approved-adjacent evidence |
-| Esketamine (Spravato) | Schedule III; REMS | Approved (Health Canada, 2020) **[verify]** | TRD; MDD with suicidal ideation (US) | **Approved** |
-| LSD | Schedule I | Schedule III CDSA | None | Early trial-grade (GAD) |
-| Ayahuasca / DMT | Schedule I (DMT); religious exemptions | DMT Schedule III **[verify]**; s.56 | None | Small trials; mostly traditional/unregulated |
-| 5-MeO-DMT | Schedule I | Schedule III **[verify]** | None | Early phase |
-| Ibogaine | Schedule I | Not a CDSA-scheduled substance but prescription-only **[verify]** | None | Anecdotal; small open-label data |
-| Mescaline / peyote | Schedule I; NAC exemption for peyote | Schedule III | None | Early; mostly sacramental |
+| Psilocybin | Schedule I; breakthrough designations; state programs (OR, CO; NM medical program 2025, first patients targeted end-2026) | Schedule III CDSA; SAP, trials, s.56 | None | Trial-grade (TRD, MDD, AUD) |
+| MDMA | Schedule I; CRL **8 Aug 2024** | Schedule I CDSA; SAP, trials | None | Trial-grade (PTSD), contested |
+| Ketamine (racemic) | Schedule III; off-label for depression | Prescription (CDSA Schedule I, item 14(1)); off-label | Anesthesia | Consensus / off-label; strongest approved-adjacent evidence |
+| Esketamine (Spravato) | Schedule III; REMS; TRD monotherapy 17 Jan 2025 | Approved (Health Canada NOC 2020-05-20) | TRD; MDD with suicidal ideation (US) | **Approved** |
+| LSD | Schedule I | Schedule III CDSA | None | Phase 3 (Voyage/Emerge/Panorama NCT06809595) |
+| Ayahuasca / DMT | Schedule I (DMT); religious exemptions | DMT Schedule III item 7; s.56 | None | Small trials; SPL026 P2a completed |
+| 5-MeO-DMT | Schedule I | **Not named** on CDSA schedules; FDA sale rules (NPS) | None | Post–P2b (GH001 hold lifted 5 Jan 2026) |
+| Ibogaine | Schedule I | Not CDSA-scheduled; PDL prescription-only; not authorized | None | Anecdotal; small open-label data |
+| Mescaline / peyote | Schedule I; NAC exemption for peyote | Sch. III item 17 mescaline, peyote cactus excluded | None | Phase 1 only; mostly sacramental |
 | Nitrous oxide | Not a controlled substance (FDA-regulated gas) | Regulated gas | Anesthesia/analgesia | Small trials for TRD |
 
 ### 1. Psilocybin
 
-**Status.** US Schedule I; Compass (COMP360, TRD, 2018) and Usona (MDD, 2019) Breakthrough. Oregon Measure 109 (supervised adult-use since 2023), Colorado Proposition 122 (healing centers from 2025), New Mexico Medical Psilocybin Act 2025 **[verify]**. State programs ≠ FDA approval. Canada: CDSA Schedule III; SAP from Jan 2022; Alberta 2023 standards.
+**Status.** US Schedule I; Compass (COMP360, TRD, 2018) and Usona (MDD, 2019) Breakthrough. Oregon Measure 109 (supervised adult-use since 2023), Colorado Proposition 122 (healing centers from 2025), New Mexico Medical Psilocybin Act 2025 (SB 219; first patients targeted end-2026). State programs ≠ FDA approval. Canada: CDSA Schedule III; SAP from Jan 2022; Alberta 2023 standards.
 
-**Evidence.** Phase 2: Carhart-Harris 2021 vs escitalopram; Davis 2021 *JAMA Psychiatry*; Goodwin 2022 *NEJM* COMP360 TRD dose-finding; Bogenschutz 2022 AUD. Phase 3 programs reported in 2025 **[verify]** — Pass 4 independently documented COMP005/006 and Usona uAspire. CANMAT 2023: low-level, experimental.
+**Evidence.** Phase 2: Carhart-Harris 2021 vs escitalopram; Davis 2021 *JAMA Psychiatry*; Goodwin 2022 *NEJM* COMP360 TRD dose-finding; Bogenschutz 2022 AUD. Phase 3: Compass IR 23 June 2025, COMP005 met week-6 MADRS primary; COMP006 and Usona uAspire. CANMAT 2023: low-level, experimental.
 
 **Practice.** Typical trial oral doses ~10–25 mg; sessions 6–8 hours; eyeshades/music common. Screen: psychosis/bipolar I personal or first-degree; unstable CVD/uncontrolled HTN; pregnancy; lithium; active mania; severe untreated suicidality. Do not stop serotonergic antidepressants casually. Monitoring: continuous presence; BP/HR; rescue (reassurance first; benzodiazepine only per protocol). Integration 24–72 hours and again within weeks. AEs: transient anxiety, nausea, headache, elevated BP/HR; less commonly HPPD, prolonged distress, psychosis/mania; SI can occur at follow-up. Sexual-boundary violations are a documented risk class for PAT generally. Lower classical abuse liability than stimulants/opioids; still Schedule I custody.
 
 ### 2. MDMA
 
-**Status.** US Schedule I. PDAC 4 Jun 2024; CRL August 2024 asking for another trial **[verify exact date]** — Pass 4 independently dates the CRL **9 August 2024**. Canada Schedule I; SAP; trials. Australia TGA AP for PTSD since 1 Jul 2023.
+**Status.** US Schedule I. PDAC 4 Jun 2024; CRL **8 August 2024** (OpenFDA NDA 215455 PDF; Lykos press 9 August 2024) asking for another trial. Canada Schedule I; SAP; trials. Australia TGA AP for PTSD since 1 Jul 2023.
 
 **Evidence.** Mitchell 2021 and 2023 *Nat Med* phase 3 large PTSD improvements vs placebo with therapy. Critics: unblinding, expectancy, therapist-effect, incomplete cardiac data, missing AE/abuse-potential capture, phase 2 sexual misconduct.
 
@@ -584,7 +590,7 @@ Common limits: small samples, **functional unblinding**, high expectancy, short 
 
 ### 3. Ketamine (racemic) and esketamine (Spravato)
 
-**Status.** Ketamine: Schedule III anesthetic; psychiatric use **off-label**. Spravato: FDA Mar 2019 TRD with REMS; later MDD with acute SI; monotherapy approval 2025 **[verify]**. FDA Oct 2023 warning on compounded ketamine. DEA telehealth flexibilities **[verify current expiry]**. Canada: ketamine CDSA-controlled; esketamine approved for TRD (Health Canada 2020 **[verify]**). CPSBC: IV only in accredited facility. CPSO: CAM + OHPIP. KATA/OMA Psychedelic MIG 2023.
+**Status.** Ketamine: Schedule III anesthetic; psychiatric use **off-label**. Spravato: FDA Mar 2019 TRD with REMS; later MDD with acute SI; monotherapy for TRD **17 January 2025**. FDA Oct 2023 warning on compounded ketamine. DEA telehealth CS flexibilities: **fourth temporary extension through 31 December 2026** (21 CFR 1307.41). Canada: ketamine CDSA Schedule I, item 14(1); esketamine NOC **2020-05-20**. CPSBC: IV only in accredited facility. CPSO: CAM + OHPIP. KATA/OMA Psychedelic MIG 2023.
 
 **Evidence.** Strongest rapid-antidepressant evidence in this set: Berman 2000; Zarate 2006; Murrough 2013; Popova 2019; ESCAPE-TRD Reif 2023 *NEJM*. Effects often short-lived without maintenance. Sanacora et al. 2017 *JAMA Psychiatry* consensus.
 
@@ -592,43 +598,43 @@ Common limits: small samples, **functional unblinding**, high expectancy, short 
 
 ### 4. LSD
 
-**Status.** US Schedule I; Canada Schedule III. Not approved. MindMed/Definium MM120/DT120 GAD/MDD in phase 2b/3 **[verify current stage]** — Pass 4 independently lists three P3 programs and a planned H1 2027 GAD filing. Swiss compassionate-use LSD-AT since 2014.
+**Status.** US Schedule I; Canada Schedule III. Not approved. Definium DT120/MM120: P2b GAD published; three **Phase 3** trials (Voyage NCT06741228, Emerge NCT06941844, **Panorama NCT06809595**); company GAD filing targeted H1 2027. Swiss compassionate-use LSD-AT since 2014.
 
-**Evidence.** Gasser 2014/2015 life-threatening-illness anxiety; Holze et al. Basel; phase 2b dose-ranging GAD published 2025 **[verify citation]**. Small and early.
+**Evidence.** Gasser 2014/2015 life-threatening-illness anxiety; Holze et al. Basel; Robison et al. 2025 *JAMA* (DOI 10.1001/jama.2025.13481) P2b GAD dose-ranging. Phase 3 running; no approval.
 
 **Practice.** Microgram doses (~25–200 µg ranges); **8–12 hour** sessions plus tail. Same classic-psychedelic screens; lithium caution; physical stamina matters. Illicit-market NBOMe substitutes sold as LSD are dangerous.
 
 ### 5. Ayahuasca and DMT
 
-**Status.** US: DMT Schedule I; ayahuasca treated as containing a controlled substance. *Gonzales v. UDV* (2006); Santo Daime *Church of the Holy Light of the Queen* Oregon federal ruling (2009). Exemptions = **religious practice**, not medical. Canada: DMT Schedule III; s.56 UDV/Santo Daime since 2017. Colorado natural medicine DMT (non-peyote) later start than psilocybin **[verify]**.
+**Status.** US: DMT Schedule I; ayahuasca treated as containing a controlled substance. *Gonzales v. UDV* (2006); Santo Daime *Church of the Holy Light of the Queen* Oregon federal ruling (2009). Exemptions = **religious practice**, not medical. Canada: DMT Schedule III item 7; s.56 UDV/Santo Daime since 2017. Colorado: regulated natural medicine is only psilocybin/psilocyn until **1 June 2026**; DMT **may** be added later if recommended.
 
-**Evidence.** Palhano-Fontes 2019 *Psychol Med* small RCT in TRD; Gable 2007; synthetic DMT (e.g. Small Pharma SPL026 phase 2a) early **[verify]**. Not an NDA-stage US program in Pass 4.
+**Evidence.** Palhano-Fontes 2019 *Psychol Med* small RCT in TRD; Gable 2007; synthetic DMT SPL026 Phase 2a (NCT04673383) **COMPLETED** and published *Nat Med*. Not an NDA-stage US program.
 
 **Practice.** MAOI interaction danger (SSRIs/SNRIs, tramadol, DXM, stimulants, MDMA, some cold medicines) → serotonin syndrome or hypertensive crisis; tyramine; psychosis/bipolar I; CVD; pregnancy; pheochromocytoma. Brew potency unstandardized — medical settings need analytically verified product. Vomiting/diarrhea (“purge”) → dehydration/aspiration. Do not claim ceremonial authority; do not blur church and clinic. Deaths reported in unregulated retreats (interactions, cardiac events, trauma, sexual assault allegations).
 
 ### 6. 5-MeO-DMT (including toad-derived)
 
-**Status.** US Schedule I; Canada Schedule III **[verify]**. GH001 / BPL-003 early/mid phase — Pass 4 independently: BPL-003 P2b completed + Lilly close; GH001 hold lifted Jan 2026. Reckweg et al. 2022/2023 **[verify]**.
+**Status.** US Schedule I. Canada: **not named** on CDSA schedules; sale under the Food and Drugs Act (NPS example). BPL-003 P2b completed + Lilly close; GH001 P2b completed, FDA hold lifted **5 Jan 2026**, P3 NCT **still unverified**. Reckweg 2021 *Front Pharmacol* (P1 HV); 2022 *J Neurochem* (review); 2023 *Front Psychiatry* (P1/2 TRD).
 
 **Practice.** Very short, intense onset (minutes). Medical readiness for sudden loss of control, vomiting, hypertension, rare arrhythmia. Contraindicated with MAOIs. Toad (*Incilius alvarius*) sourcing: **ecological** and cultural concerns; prefer synthetic (Celidwen 2023).
 
 ### 7. Ibogaine / noribogaine
 
-**Status.** US Schedule I. Texas SB 2308 2025 matching-fund research; other states (e.g. Arizona) funded studies **[verify amounts]**. Canada: not CDSA-scheduled but prescription drug under food and drug regulations **[verify]**. Most treatment in Mexico and elsewhere, outside US/Canadian regulation. Pass 4: noribogaine US P1 IND allowed Apr 2026; FDA ibogaine RFI Oct 2026.
+**Status.** US Schedule I. Texas SB 2308 2025 matching-fund research ($50M); Arizona **$5M** FY2026 (SB 1735 → Barrow). Canada: not CDSA-scheduled; PDL 19 May 2017; not authorized for use. Most treatment in Mexico and elsewhere, outside US/Canadian regulation. Pass 4: noribogaine US P1 IND allowed Apr 2026; FDA ibogaine RFI Oct 2026.
 
 **Evidence.** Mostly observational; Cherian 2024 *Nat Med* magnesium–ibogaine in veterans with TBI (cardiac monitoring); Noller 2018; Brown & Alper 2018 retrospective OUD.
 
-**Practice.** **Cardiac risk is the central issue** (hERG/QT, TdP, sudden death). Exclude/manage: baseline long QT, bradycardia, structural heart disease, K/Mg abnormalities, liver impairment, QT-prolonging drugs, strong CYP2D6 inhibitors; also psychosis and seizure disorders. **Microdosing does not waive cardiac screening.** Setting: continuous ECG, defibrillation, IV access, clinician trained to treat torsades; 24–36 hours of effects plus longer elimination tail. After OUD treatment, **overdose risk rises as tolerance falls** — naloxone and continuing addiction care. Deaths have occurred in supervised settings. No take-home. Do not present as a “cure.” Veteran politics is not a cardiac waiver.
+**Practice.** **Cardiac risk is the central issue** (hERG/QT, TdP, sudden death; Alper, Stajić & Gill 2012 *J Forensic Sci* 57(2):398–412). Exclude/manage: baseline long QT, bradycardia, structural heart disease, K/Mg abnormalities, liver impairment, QT-prolonging drugs, strong CYP2D6 inhibitors; also psychosis and seizure disorders. **Microdosing does not waive cardiac screening.** Setting: continuous ECG, defibrillation, IV access, clinician trained to treat torsades; 24–36 hours of effects plus longer elimination tail. After OUD treatment, **overdose risk rises as tolerance falls** — naloxone and continuing addiction care. Deaths have occurred in supervised settings. No take-home. Do not present as a “cure.” Veteran politics is not a cardiac waiver.
 
 ### 8. Mescaline (peyote, San Pedro, synthetic)
 
-**Status.** US Schedule I with federal **NAC peyote** exemption (21 CFR 1307.31; AIRFA amendments 1994) — religious, not medical. Canada Schedule III; no general NAC exemption comparable to the US **[verify]**. Colorado natural medicine: mescaline from **non-peyote** sources, not peyote **[verify]**. Evidence not mature **[verify]**.
+**Status.** US Schedule I with federal **NAC peyote** exemption (21 CFR 1307.31; AIRFA amendments 1994) — religious, not medical. Canada: Sch. III item 17 mescaline **but not peyote**; no 21 CFR 1307.31-style NAC exemption. Colorado: mescaline from **non-peyote** sources **may** be added after 1 June 2026 if recommended. Evidence: Phase 1 PK/PD only; no US Phase 3.
 
 **Practice.** Treat as long-acting classic (10–12 h). Peyote is ecologically threatened and culturally central; non-Native clinics should prefer synthetic or cultivated alternatives (San Pedro) and avoid extracting peyote. Do not blur NAC sacramental frame with medical practice.
 
 ### 9. Other agents
 
-**Nitrous oxide:** small TRD trials (Nagele 2015, 2021 **[verify]**); B12/neuropathy; scavenging. **Psilocybin/LSD analogs and novel short-acting agents** (deuterated psilocin, 5-MeO-DMT formulations): trial protocols only. **Cannabis:** co-use; psychosis risk and sedation. **Salvia, arketamine, psychoplastogens:** mostly preclinical/early. **MDMA analogs (MDA, 6-APB):** not recommended outside research.
+**Nitrous oxide:** small TRD trials (Nagele 2015 *Biol Psychiatry*; Nagele 2021 *Sci Transl Med* 13:eabe1376); B12/neuropathy; scavenging. **Psilocybin/LSD analogs and novel short-acting agents** (deuterated psilocin, 5-MeO-DMT formulations): trial protocols only. **Cannabis:** co-use; psychosis risk and sedation. **Salvia, arketamine, psychoplastogens:** mostly preclinical/early. **MDMA analogs (MDA, 6-APB):** not recommended outside research.
 
 ### Cross-drug safety floors
 
@@ -647,7 +653,7 @@ Copied in full onto this branch as [`psychedelic-best-practices-process.md`](psy
 
 | Practice | Rationale strength | Direct psychedelic evidence of effect | Main trade-off |
 | --- | --- | --- | --- |
-| Informed consent in stages | Strong (general medical ethics) | Qualitative/consensus only | Preparation can prime expectations |
+| Informed consent in stages (Smith & Sisti *JME* 2021 print / 2020 online) | Strong (general medical ethics) | Qualitative/consensus only | Preparation can prime expectations |
 | Recording of active sessions | Moderate (deterrence, review) | None on outcomes | Privacy, subpoena, chilling effects |
 | Two-person dosing teams / chaperone | Moderate to strong (AMA, FSMB) | Regulator/trial standards, no outcome trials | Cost, patient comfort, collusion |
 | Touch consent protocol | Moderate | Consensus (JAMA 2024; McHerron 2025) | Rigid rules vs relational care |
@@ -659,13 +665,13 @@ Copied in full onto this branch as [`psychedelic-best-practices-process.md`](psy
 
 ### 1. Informed consent: content and timing
 
-Stage it: written information early; discuss in preparation; **reconfirm** on dosing day before ingestion while capacitous. Do not obtain first-time consent on dosing day under time or payment pressure. Content: indication and evidence grade; investigational/off-label/SAP status; alternatives including no treatment; COI and fees; time course; physical and psychiatric risks; possible lasting changes in values/beliefs/relationships; possibility of no benefit; suggestibility; who will be in the room; recording; touch; limits of confidentiality including compelled records. Capacity rule as in concept 2. Teach-back; copy of the document; explicit right to withdraw. Oregon requires pre-session preparation and written client information; Colorado requires consent each session **[verify specifics — OPEN]**.
+Stage it: written information early; discuss in preparation; **reconfirm** on dosing day before ingestion while capacitous. Do not obtain first-time consent on dosing day under time or payment pressure. Content: indication and evidence grade; investigational/off-label/SAP status; alternatives including no treatment; COI and fees; time course; physical and psychiatric risks; possible lasting changes in values/beliefs/relationships; possibility of no benefit; suggestibility; who will be in the room; recording; touch; limits of confidentiality including compelled records. Capacity rule as in concept 2. Teach-back; copy of the document; explicit right to withdraw. Oregon: OAR 333-333-5000 / 5040 / 5050. Colorado: 4 CCR 755-1 §6.5.
 
 **Criticisms.** Transformative-experience limit on “understanding”; preparation primes expectancy; long forms become liability shields.
 
 ### 2. Session recording
 
-Offer AV recording of the active dosing phase with separate consent; stated retention; role-based access (not marketing); storage as a health record; patient right to pause (e.g. toileting) logged; defined review use (quality, complaint, supervision). CAP/CPSA recommend recording the active phase **[verify wording — OPEN]**. Recording existed in the MDMA program, yet misconduct was exposed through other channels — recording alone is insufficient. **Criticisms:** dignity, chilling effect, subpoena, coerced consent if treatment is conditional, false assurance if no one reviews footage.
+Offer AV recording of the active dosing phase with separate consent; stated retention; role-based access (not marketing); storage as a health record; patient right to pause (e.g. toileting) logged; defined review use (quality, complaint, supervision). CAP June 2025 attributes the recording recommendation to **CPSA** and requires psychologists to obtain written consent defining storage, duration, and access. Recording existed in the MDMA program, yet misconduct was exposed through other channels — recording alone is insufficient. **No RCT** of recording as a harm-reduction intervention was located (Pass 5). **Criticisms:** dignity, chilling effect, subpoena, coerced consent if treatment is conditional, false assurance if no one reviews footage.
 
 ### 3. “No more sales” and cooling-off
 
@@ -673,7 +679,7 @@ No soliciting packages, memberships, donations, investments, or testimonials dur
 
 ### 4. Chaperones and two-person teams
 
-Two trained persons for hours-long sessions wherever feasible, at least one a licensed clinician. Offer a chaperone for intimate examination/touch (AMA Opinion **1.2.4 [verify number — OPEN]**; FSMB 2020). Do not use a family member as the “chaperone.” Chaperones need training, a stated reporting duty, and independence. Documented misconduct occurred in a **pair-based** program — team size does not replace oversight. **Criticisms:** cost; observation discomfort; bystander collusion; doubled confidentiality exposure; small-community scarcity.
+Two trained persons for hours-long sessions wherever feasible, at least one a licensed clinician. Offer a chaperone for intimate examination/touch (AMA Opinion **1.2.4 Use of Chaperones**, issued 2016; FSMB 2020). Do not use a family member as the “chaperone.” Chaperones need training, a stated reporting duty, and independence. Documented misconduct occurred in a **pair-based** program — team size does not replace oversight. **Criticisms:** cost; observation discomfort; bystander collusion; doubled confidentiality exposure; small-community scarcity.
 
 ### 5. Touch consent
 
@@ -693,7 +699,7 @@ Plain-language policy at intake; named person independent of the treating clinic
 
 ### 9. Provider wellbeing
 
-Caseload and session-length limits; debriefing; supervision/personal therapy; vicarious-trauma training; protection from overbooking pressure; no services while impaired (Colorado); fair pay for second-person roles. Align ANA 2025 provisions 5–6; CNA 2025; CMA self-care. Simionato & Simpson 2018 burnout paper **[verify — OPEN]**. **Criticisms:** “wellbeing” language can be used to justify mandatory personal psychedelic experience, which consensus papers reject.
+Caseload and session-length limits; debriefing; supervision/personal therapy; vicarious-trauma training; protection from overbooking pressure; no services while impaired (Colorado); fair pay for second-person roles. Align ANA 2025 provisions 5–6; CNA 2025; CMA self-care. Simionato & Simpson 2018 *J Clin Psychol* 74(9):1431–1456. **Criticisms:** “wellbeing” language can be used to justify mandatory personal psychedelic experience, which consensus papers reject.
 
 ### 10. Other practices
 
@@ -715,7 +721,7 @@ Public Track A vs Track B service description; COI disclosure; advertising limit
 | Name support vs psychotherapy; bill what occurred; silent dosing window | 6, 7, 21 | Dual-licensed Oregon facilitators: Track A behavior at administration; limited Track B-like work only in prep/integration where HB 2387 + the health license actually authorise it. |
 | Two-person teams; independent training; watch the tapes | 7, 14 | Track B: video + two-person default is now a **harm argument**. Track A: fewer interpretive techniques, **not** fewer aftercare duties. |
 | Most-responsible clinician; no virtual-only parenteral | 17 | AU recommendation: AP on-site at administration. NZ: one named doctor. |
-| No take-home; pharmacist stop; Spravato analog | 18 | Compounded ketamine take-home is the live US contest (TMB **proposed** ban on home parenteral PKT). |
+| No take-home; pharmacist stop; Spravato analog | 18 | Compounded ketamine take-home is the live US contest (TMB **July 2026 reproposal** §§173.6–173.17 still not adopted). |
 | Treatment not enhancement; established options first | 15, 19 | SAC 2026 brake. |
 | Eight Rs; do not blur frames; peyote ecology; toad sourcing | 10, 23 | Do not launder ceremonial frames into Track A/B billing. Adult-use tourism ≠ reciprocity. |
 | Aftercare 24h contact; post-trial plan; compelled-records warning | 9, 13, 24 | Mel’s open-heart metaphor is the failure mode. |
@@ -725,51 +731,143 @@ Public Track A vs Track B service description; COI disclosure; advertising limit
 
 ---
 
+## Pass 5 — live-source verification, deeper coverage, and gap analysis (11 Nov 2026)
+
+Pass 5 did three things: (1) live-check every `[verify]` / similarly flagged OPEN item in the best-practices files and in this document’s FDA/jurisdiction leftovers; (2) inventory societies, harm-reduction codes, Oregon/Colorado discipline, Australia AP-in-practice, and board cases; (3) inventory international bodies, Indigenous/religious law, veterans, equity, and Lykos/FDA research-ethics gaps. Detail lives in [`research-notes/verify-audit-pass5.md`](research-notes/verify-audit-pass5.md), [`research-notes/pass5-societies-cases-jurisdictions.md`](research-notes/pass5-societies-cases-jurisdictions.md), and [`research-notes/pass5-international-equity-research.md`](research-notes/pass5-international-equity-research.md).
+
+**There is currently no national or international binding ethics code specific to medical psychedelic use.** Closest texts are profession-general (AMA, APA psychiatry 2022, RANZCP, college codes), trial-sponsor (MAPS Code v4, 7 Jan 2021 / PDF 22 Jun 2022), membership (ASKP3 Ethical Code), underground/defense (ICEERS/ADF 18 criteria, Nov 2024), or **adult-use facilitator** rules (Oregon OAR 333-333, Colorado 4 CCR 755-1). Psychology APA has **no Board PAT position**. WHO, INCB, WMA Helsinki 2024, UNESCO, CIOMS, VA/DoD CPGs, and FDA trial guidance do **not** write a medical-PAT ethics code. This document is a research synthesis, **not** that missing code.
+
+### Verify audit counts (core universe n=40)
+
+| Mark | n | Meaning |
+| --- | --- | --- |
+| **CONFIRMED** | **25** | Document matched a primary source retrieved 11 Nov 2026 |
+| **CORRECTED** | **12** | Primary differed; this file and the best-practices files were edited |
+| **STILL UNVERIFIED** | **3** | No adequate primary, or a genuine research gap |
+
+Universe = unique `[verify]` claims in the two best-practices files (including MDMA CRL date) **plus** assigned OPEN items (Usona NDA, Resilient refile/PDUFA, COMP360 NDA vs approval, ibogaine RFI, TMB ketamine, AU May 2026 AP recs, TX psilocybin bills, IMPACT NCT, Panorama NCT, GH001 P3 NCT). Remaining OPEN items **33–99** (unwatched videos, paywalls, “no RCT of chaperones” as a research program) are **not** in the 40; they stay tabulated below.
+
+**Corrections applied (the 12):** Canada 5-MeO-DMT is **not** CDSA Schedule III (DMT is Sch. III item 7; 5-MeO-DMT unnamed; sale under the Food and Drugs Act). Canada ketamine is CDSA **Schedule I, item 14(1)** (under phencyclidine), not “Sch. I, Part 1 item.” Alper 2012 fatality review is ***J Forensic Sci*** 57(2):398–412, not *Am J Addict* (that is Jalal 2013). Breeksema 2020 is ***CNS Drugs*** systematic review, not *Front Psychiatry* (TRD interviews are 2024 *Sci Rep*; *Front Psychiatry* 2022 is oral esketamine). Nagele 2021 is ***Sci Transl Med*** 13:eabe1376, not *Biol Psychiatry* (2015 *Biol Psychiatry* is correct). TMB May 2026 §§173.6–**173.18** **withdrawn 29 June 2026**; July 2026 reproposal is §§173.6–**173.17**, still **not adopted**. Smith & Sisti: online 27 May 2020; print ***JME* 2021;47(12):807–814**. LSD is **Phase 3** (Voyage/Emerge/**Panorama NCT06809595**), not “2b/3.” GH001 is **post–Phase 2b**; FDA hold lifted **5 January 2026**. SPL026 Phase 2a is **COMPLETED** and published. Reckweg 2022 is a pharmacology **review**; GH001 P1 is Reckweg **2021**; P1/2 TRD is Reckweg **2023**. MDMA CRL PDF is dated **8 August 2024** (Lykos press 9 August).
+
+### Societies, cases, jurisdictions (highest-signal)
+
+- **Sexual-boundary clocks collide.** MAPS v4: **never** with participant, former participant, spouse/partner, or immediate family. Oregon facilitators: **one year** after last service (OAR 333-333-5120). Colorado facilitators: **two years**. ICEERS/ADF: **six months** after the relationship ends. APA Psychology: generally **two years** plus burden of no exploitation. ASKP3: **no numbered clock**. Dual-licensed Oregon facilitators: the **enforceable** state floor is one year; MAPS “never” binds only while MAPS-certified.
+- **Oregon 2025:** 51 complaints, 60 investigations, **22 final orders** (18 civil penalties, **4 revocations**, 0 suspensions). EMS contacted **13** times / 5,935 clients (0.2%). Published orders read in this pass are mostly paper/presence/advertising, not sexual-misconduct adjudications. InnerTrek (Tom Eckert) fined **$3,000**. OPS **approves curriculum; it does not license training schools**.
+- **Colorado split regulator:** DOR licenses businesses; **DORA** licenses facilitators. Official DORA table **2 Feb 2026**: **7** Natural Medicine Facilitator and **2** Clinical Facilitator applications *approved*. Journalism that “DORA issued 124 facilitator licenses” (CBS, Apr 2025) **does not match** that table — treat 124 as **unverified**. **No published facilitator disciplinary file** found.
+- **Australia AP in practice:** TGA FOI unique APs 1 Jul 2023–31 Jul 2026 = **63 MDMA / 60 psilocybin**. Patients through 31 Dec 2025: **123 MDMA / 65 psilocybin**. TGA told a FOI requester **zero** AP-scheme AEs through Dec 2025 — **spontaneous reporting, not safety**. May 2026 TGA recommendations are **not** a Poisons Standard change. RANZCP called widening the therapy dyad an **“unjustifiable risk to patient safety.”**
+- **Board cases that exist are mostly ketamine, not Oregon/Colorado psilocybin.** Virginia: Patrick Anthony Oliver, MD (summary suspension Feb 2024). Colorado: Mark Young, MD (Apex Ketamine) criminal + board suspension. Ontario: Tatiana Zdyb, psychologist, registration **revoked**. Yensen/Buisson: civil settlement; CPSBC Donna Dryer irrevocable resignation (1 Aug 2023); three *Psychopharmacology* Phase 2 papers retracted Aug 2024; **no psychology board** for unlicensed Yensen; Crown declined charges.
+- **HB 2387 (Oregon)** imports clinical work into prep/integration while administration stays non-therapy. APA psychiatry 2026 FDA letter: if a product is FDA-approved, state non-medical credentials **must not** substitute for health licensure — a **direct collision** with adult-use facilitator models.
+
+### International, Indigenous, veterans, Lykos research ethics (highest-signal)
+
+- **No WHO/INCB PAT standard of care.** ECDD/CND 2024–2025 scheduled nitazenes, HHC, carisoprodol — **not** psilocybin, MDMA, or DMT. INCB encourages research and warns about wellness tourism; it does not write clinical ethics.
+- **Treaties control isolated alkaloids, not most plants.** 1971 Schedule I: LSD, MDMA, psilocybin/psilocine, DMT, mescaline. Ibogaine and ketamine are **not** internationally scheduled. INCB: ayahuasca, peyote cactus, iboga shrub, and psilocybe mushrooms are **not** internationally controlled. Art. 32(4) reservations are narrow, time-of-accession, and **exclude international trade**.
+- **Religious vs medical firewall.** US AIRFA + 21 CFR 1307.31 vs RFRA case law; Canada CDSA s.56 organization-specific ayahuasca exemptions (~12). Ceremony does not authorize clinics; medicalization does not automatically protect ceremony, conservation, or Indigenous IP.
+- **Gabon ABS is the only working psychedelic Nagoya pilot** (Blessings of the Forest + Terragnosis/Filament, May 2023 first Nagoya-compliant iboga export). **United States is not a CBD/Nagoya Party.** Celidwen eight Rs remain COMMENTARY.
+- **Veterans are the political on-ramp; ethics infrastructure has not caught up.** NDAA FY2024 §723 DoD process; VA PIVOT COMP360 (`NCT07226232`); Texas SB 2308 is **research-funding law**, not treatment authorization. **No treaty, WHO, WMA, VA/DoD CPG, or Helsinki paragraph** addresses command influence, deployability, security-clearance spillover, or disability-rating effects of PAT.
+- **Lykos/FDA PDAC (4 Jun 2024)** remains the research-ethics template: functional unblinding (~90% drug / ~75% placebo guessed assignment), AE valence (positive effects not captured), session video (FDA asked for independent audit), dual therapist–investigator roles. Helsinki 2024 tightens dependent-relationship consent and data rules but **does not mention psychedelics**.
+
+### What NO existing code, guideline, regulator, or commentator addresses
+
+Academic papers exist for some of these; that is **not** institutional coverage. No treaty, WHO guideline, WMA paragraph, FDA ethics code, VA/DoD CPG, UNESCO recommendation, or national licensing-federation instrument was found for:
+
+1. A **WHO/ECDD critical review or treatment guideline** for MDMA, psilocybin, or ibogaine as medicines.
+2. A **Celidwen- or UNDRIP-operational protocol** that FDA, EMA, TGA, or Health Canada must run before a botanical or method-of-use PAT application.
+3. **Nagoya/PIC/MAT for synthetic analogs and for intangible ceremonial knowledge** (playlists, touch manuals, “inner healer”).
+4. **Peyote conservation as a medical-regulator duty** (DEA registers distributors; FDA/WHO do not model harvest pressure from a future mescaline NDA).
+5. **Cross-border religious sacrament** under 1971 Art. 32(4) (structurally excluded).
+6. **Religious vs medical dual-use of the same molecule in one person** (NAC member in a VA trial; Santo Daime member on COMP360).
+7. **Command influence, deployability, PRP/flight status, security-clearance, and disability-rating** aftermath of PAT.
+8. **Sponsor-donated Schedule I product + sponsor training inside a national health system** (VA–Compass PIVOT).
+9. **AE valence:** when a “positive” psychedelic effect is simultaneously abuse-potential signal, putative mechanism, and reportable AE.
+10. **Functional unblinding** as a named Helsinki/CIOMS design problem.
+11. **Therapist-investigator dual role** beyond generic COI (who receives a sexual-misconduct complaint: PI, sponsor, licensing board, or none).
+12. **Session audiovisual records:** extra-protected psychotherapy notes vs research data vs FDA audit substrate vs AI training; right to **refuse recording without losing trial access**.
+13. **AI trip-sitters / integration chatbots** as a regulated medical device vs wellness app.
+14. **Post-trial and post-approval access** when the intervention is a 6–8 hour two-therapist session, not a pill (Helsinki ¶34 underspecified).
+15. **A national or multi-state PAT disciplinary database** (NPDB/NURSYS catch dually licensed clinicians, not Oregon-only facilitators).
+16. **An RCT or even a prospective audit** showing that recording, chaperones, or cooling-off **reduce** PAT harm.
+17. **Equity floors** (essential-medicine listing; public-payer cost-effectiveness **with** two-therapist opportunity cost; Indigenous enrollment beyond diversity statements).
+18. **Host-country + funder-country REC** for Mexico/Caribbean ibogaine data used to justify US veteran policy.
+
+### Where codes CONFLICT
+
+| Issue | Strictest | Loosest / silent | Clash |
+| --- | --- | --- | --- |
+| Post-termination **sex** | MAPS **never**; many medical boards never with current patients + long clocks | ICEERS **6 months**; Oregon **1 year**; Colorado **2 years**; APA Psychology **2 years + burden** | Dual-licensed Oregon clinician: clinical board may be stricter than OAR; HB 2387 blocks discipline **for lawful facilitation**, not for sex with a client |
+| **Touch** | Oregon/Colorado: **written pre-consent**, body-part list | MAPS: intake + in-the-moment; Zendo: ask in the moment | MAPS “therapeutic touch” is **broader** than OPS “supportive touch” — Buisson video is the object lesson |
+| **Who may sit** | Psychiatry APA / AMA / RANZCP / TGA: licensed health professions, psychiatrist lead for **medical** PAT | Oregon/Colorado: **non-clinical facilitators**; Zendo/Fireside: peers with lived experience | APA Oct 2026: state non-medical credentials must not substitute for health licensure **if** the product is FDA-approved |
+| **Medical vs adult-use** | Investigational-medicine frame (indication, diagnosis, SAC “established options first”) | Oregon: no diagnosis; age 21+; default nondirective | One consent form cannot serve both frames (concept 23) |
+| Dual relationships | ASKP3: refer out; Colorado: no services to subordinates | MAPS historically allowed married co-therapist dyads and **one unlicensed** partner | Dryer/Yensen is the failure mode |
+| At-home ketamine | ASKP3 2024 generally against unsupervised home Rx; TMB proposed ban still **not adopted** | Tele-ketamine / compounding market | Matthew Perry / compounding overlay |
+| Philosophy | Psychiatry APA: diagnosis, alternatives, measurement | MAPS “inner healing intelligence”; Oregon nondirective | Adult-use vs investigational-medicine |
+
+### Where EVIDENCE is absent
+
+- **No RCT** (and no located prospective outcome study) showing that session recording, chaperones, two-person teams, or cooling-off periods reduce PAT sexual misconduct or other harm. Rationale is deterrence, analogy, and documented failures.
+- **No PAT-specific disciplinary database** in the US, Canada, Australia, or New Zealand. Oregon’s 22 orders are the only public numbered series; they are mostly not sexual-misconduct adjudications.
+- **TGA zero AP-scheme AEs** through Dec 2025 with tiny n (123 MDMA / 65 psilocybin patients reported) is a **spontaneous-reporting empty**, not a safety finding.
+- Colorado has **no public EMS/AE year-end table** comparable to Oregon and **no published licensed-facilitator discipline**.
+- **No tried-to-verdict US PAT malpractice** located in this pass; ketamine sexual-assault **criminal** cases exist.
+- Whether psychotherapy is **necessary** for MDMA/psilocybin (FDA CRL factorial ask) remains **OPEN scientifically**.
+- Functional-unblinding “fixes” (naive-only recruitment, extra deception) can collide with Helsinki ¶26/¶33; **no WMA/CIOMS design document**.
+
+### What remains UNVERIFIED in our own documents
+
+**The 3 still unverified in the n=40 core:**
+
+1. **Blanket source-list caveat** in `psychedelic-best-practices-by-drug.md` — the alphabetical list was not live-checked title-by-title (CANMAT PDF pagination, CPSBC version dates, remaining rows).
+2. **Process-level outcome evidence** — absence of an RCT of recording/chaperones/cooling-off is a research program, not a closed negative proof.
+3. **GH001 Phase 3 NCT** — company targets 2026 initiation after hold lift; **no GH001 TRD Phase 3 NCT** on ClinicalTrials.gov on 11 Nov 2026.
+
+**Remaining OPEN 33–99 (audit §4; not in the n=40):** Helus/Cybin Breakthrough letter not fetched; BPL-003 P3 NCT not posted; Part 15 hearing ≠ decision; how July 2026 guidance binds reviews is open; SB 2308 match / $100M talk operationally unverified; ACA/AAMFT/CMA 2026 full-text mapping not re-read; media/transcripts/HC 2022 MAPS review / coroner / BBS files unwatched or unretrieved; college negative findings (no CMQ PAT standard, no TX AG opinion) not re-swept exhaustively; journals/philosophy disputes (items 75–86); 2C-B/mescaline P3 still absent; unblinding design unsettled. Full one-line table: [`research-notes/verify-audit-pass5.md`](research-notes/verify-audit-pass5.md) §4.
+
+### What would be needed for a credible national or international medical-psychedelic ethics code
+
+This repository is **not** writing that code. A credible instrument would need **process** and **substance**.
+
+**Process.** Multi-profession drafting (psychiatry, psychology, nursing, pharmacy, social work, counseling, addiction medicine — not a single sponsor or adult-use board). **Indigenous co-draft** with FPIC, not a consultation appendix (Celidwen eight Rs as a starting demand, not a brand). Separate tracks for **medical PAT**, **adult-use facilitation**, and **religious/sacramental** use, with an explicit **firewall** so one form does not serve all three. Public comment, conflict-of-interest registers, and a plan for **enforcement** (licensing boards, not only membership expulsion). Veteran/military dual-loyalty review with VA/DoD and independent veterans’ orgs. Nagoya/ABS counsel for any botanical or traditional-knowledge-derived method. Translation into FDA/EMA/TGA/Health Canada **label and REMS language** if a product is approved — a voluntary society code that never becomes a board rule will not close Cover Story’s accountability hole.
+
+**Necessary elements (floors, not this project’s text):**
+
+- Indication honesty; Track A (monitored dosing) vs Track B (licensed psychotherapy); no ballot-box medicine.
+- **Drug-class floors:** ibogaine cardiac ≠ ketamine sedation/diversion ≠ classic suggestibility ≠ MDMA hyperthermia/hyponatremia.
+- Enhanced consent (identity-level change; Smith & Sisti 2021); freeze on optional permissions after dosing; independent consent-taker in dependent relationships (Helsinki ¶27) — including **command influence**.
+- **Sexual-boundary clock** at the strictest medical-board pole for medical PAT (lifetime / never with current and former patients in the MAPS/CRPO sense), with a **stated** rule for dual-licensed adult-use facilitators rather than silent collision.
+- Three-tier **touch**; written pre-dose body map; in-session stop always wins.
+- **Video:** purpose (fidelity vs safety audit vs AI), retention, patient access, right to refuse without losing care, who watches.
+- **AE valence:** capture euphoric/“positive” effects as AEs for abuse-potential **and** as possible mechanism; independent (not PI-only) reporting.
+- Dual-role disclosure (prescriber-therapist; therapist-investigator; sponsor-trained interventionist); complaint path **outside** the building.
+- Aftercare and non-abandonment, including post-trial access when the “drug” is a two-person day.
+- Religious vs medical firewall; peyote/iboga/toad conservation; benefit-sharing where genetic resources or TK are used.
+- Veteran coercion, disability-rating, and security-clearance spillover.
+- No take-home classic psychedelic; pharmacist stop; at-home ketamine as a named contested class.
+- Competence **without** mandatory personal use; integration is not an unregulated upsell label.
+
+Until some body with licensing teeth adopts an instrument like that, the ethical floor for licensed professionals remains **existing medical, psychology, nursing, and pharmacy codes** plus molecule-specific law — not a psychedelic-specific national code.
+
+---
+
 ## Open, incomplete, or unverified research
 
-This section is part of the deliverable. Items are **open** unless a later primary source in this repo independently confirmed them. Pass 4 confirmations are noted where they **partially** close a PR #3 **[verify]** without converting the leftover into a closed fact.
+Pass 5 closed most PR #3 `[verify]` flags (see counts above). Items below remain **open**, **still unverified**, or **documentation gaps**. Pass 4/5 confirmations are noted; they do not convert leftovers into closed law.
 
-### A. Every [verify] from PR #3 best-practices-by-drug
+### A–B. Former [verify] flags — Pass 5 disposition (n=40 core)
 
-1. **Canada ketamine scheduling detail** — “CDSA Sch. I, Part 1 item” **[verify]**. Pass 4: MDMA and ketamine are CDSA Schedule I (numbering ≠ US). Fine structure of Part 1 item **not independently confirmed**.
-2. **Health Canada esketamine approval year 2020** **[verify]** (summary table and ketamine section).
-3. **Canada DMT Schedule III** **[verify]** in ayahuasca/DMT row — Pass 4 treats classics including DMT as CDSA Schedule III; still flag the table’s explicit verify tag as OPEN until a CDSA schedule page is cited in-file.
-4. **Canada 5-MeO-DMT Schedule III** **[verify]**.
-5. **Canada ibogaine: not CDSA-scheduled but prescription-only under food and drug regulations** **[verify]**.
-6. **New Mexico Medical Psilocybin Act 2025 program build-out scheduled for later years** **[verify]**. Not in the five-jurisdiction Pass 4 refresh.
-7. **Psilocybin Phase 3 programs “reported in 2025”** **[verify]**. Pass 4 independently documents COMP005/006 and Usona uAspire as of Nov 2026; the 2025-wording claim in the best-practices file was not the live-checked sentence.
-8. **Spravato monotherapy approval in 2025** **[verify]**. Pass 4 lists TRD-with-oral-AD and SI depression; does **not** independently confirm monotherapy labeling.
-9. **DEA telehealth controlled-substance flexibilities — current expiry** **[verify]**.
-10. **LSD industry programs “phase 2b/3” current stage** **[verify]**. Pass 4 lists Definium P3 Voyage/Emerge/Panorama; leftover: whether every MindMed-era citation still matches current IR.
-11. **LSD GAD phase 2b dose-ranging trial published 2025 — citation** **[verify]**.
-12. **Colorado natural medicine DMT later start than psilocybin** **[verify]**.
-13. **Small Pharma SPL026 DMT phase 2a status** **[verify]**.
-14. **GH Research GH001 “early-phase” wording** **[verify]** — Pass 4: P2b completed, hold lifted Jan 2026, P3 initiation claimed 2026; the best-practices file’s “early-phase” label is stale-pending-verify.
-15. **Reckweg et al. 2022 and 2023 5-MeO-DMT citations** **[verify]**.
-16. **Arizona (and other states) ibogaine study funding amounts** **[verify amounts]**. Texas $50M is Pass 4 **LAW**; Arizona amounts are not.
-17. **Canada mescaline/peyote: no general NAC-comparable exemption** **[verify]**.
-18. **Colorado natural medicine includes mescaline from non-peyote sources, not peyote** **[verify]**.
-19. **Early-phase synthetic mescaline research “not mature”** **[verify]**.
-20. **Nagele et al. 2015 and 2021 nitrous oxide TRD citations** **[verify]**.
-21. **Alper et al. 2012 ibogaine fatality case review venue (*Am J Addict* / related)** **[verify]**.
-22. **Breeksema et al. 2020 *Front Psychiatry* citation** **[verify]**.
-23. **Blanket source-list caveat:** “No live web verification was performed” for the alphabetical source list in the by-drug file. Titles, DOIs, and current regulatory pages need confirmation before relying on them.
+**CORRECTED in this file and the best-practices files:** Canada ketamine item 14(1); Canada 5-MeO-DMT not CDSA Sch. III; Alper 2012 *J Forensic Sci*; Breeksema 2020 *CNS Drugs*; Nagele 2021 *Sci Transl Med*; TMB §§173.6–173.17 July reproposal; Smith & Sisti print 2021; LSD Phase 3 / Panorama NCT06809595; GH001 post-P2b hold lift 5 Jan 2026; SPL026 P2a completed; Reckweg venues/years; MDMA CRL **8 Aug 2024**.
 
-### B. Every [verify] from PR #3 best-practices-process
+**CONFIRMED (no wording change required beyond removing the verify tag):** Health Canada esketamine NOC 2020-05-20; Canada DMT Sch. III item 7; Canada ibogaine PDL not CDSA; NM Medical Psilocybin Act 2025 / first patients targeted end-2026; psilocybin P3 2025 COMP005 readout; Spravato monotherapy 17 Jan 2025; DEA telehealth through **31 Dec 2026**; LSD GAD P2b Robison *JAMA* 2025; Colorado DMT later than psilocybin (may-add after 1 Jun 2026); Arizona ibogaine **$5M**; Canada mescaline/peyote nuance; Colorado mescaline excludes peyote; mescaline research Phase 1 only; Oregon/Colorado consent rules; CAP/CPSA recording wording; AMA Opinion 1.2.4; Simionato & Simpson 2018; Usona NDA trade-only; Resilient refile without PDUFA on FDA.gov; COMP360 NDA completed 9 Nov 2026 (company); ibogaine RFI comments through **20 Nov 2026**; AU May 2026 AP recs not regulation; TX HB 4014/4813 not law; IMPACT pivotal NCT absent; Panorama NCT06809595.
 
-24. **Oregon / Colorado consent rule specifics** (pre-session preparation and written client information; consent each session) **[verify specifics]**. Pass 4 confirms Oregon Client Information Form updates under HB 2387 and OAR 333-333; Colorado 4 CCR 755-1 consent-each-session is in the chat export but the process file still tagged specifics as unverified.
-25. **College of Alberta Psychologists / CPSA recording-of-active-phase wording** **[verify wording]**.
-26. **AMA Opinion number for chaperones (cited as 1.2.4)** **[verify number]**.
-27. **Smith & Sisti year 2020 vs 2021** **[verify]**. Journals inventory: *JME* 2021, DOI 10.1136/medethics-2020-106070. Treat year as OPEN until the PDF masthead is attached.
-28. **Simionato & Simpson 2018 *J Clin Psychol* burnout paper** **[verify]**.
-29. **Process-level outcome evidence generally:** no RCT shows that recording, cooling-off, or chaperones reduce PAT harm. Prospective audit data are missing (**OPEN research program**, not a citation typo).
+**STILL UNVERIFIED (3):** blanket by-drug source-list; no RCT of recording/chaperones/cooling-off; GH001 P3 NCT.
+
+Numbered leftovers **33–99** below are documentation gaps, proposals, or live scientific disputes (audit §4), not the closed `[verify]` set.
 
 ### C. Trade-reported, not FDA-confirmed
 
 30. **Usona PSIL201 NDA** — reported 2 Nov 2026 by Psychedelic Alpha; Usona declined comment. **Not FDA-confirmed.**
 31. **Resilient (ex-Lykos) MDMA NDA resubmission without a new Phase 3 (Aug 2026)** — COMPANY/trade. FDA acceptance / PDUFA **not** on FDA.gov as of 11 Nov 2026.
 32. **COMP360 NDA “completed” 9 Nov 2026** — COMPANY IR. Filing ≠ acceptance ≠ approval ≠ DEA reschedule. Launch H1 2027 is a company target **if** approved and rescheduled.
-33. **Definium/MindMed Breakthrough for MDD (reported 8 Sep 2026)** and “three positive P3 readouts”; **Panorama** NCT not confirmed in-file.
+33. **Definium/MindMed Breakthrough for MDD (reported 8 Sep 2026)** and “three positive P3 readouts” remain COMPANY. **Panorama NCT06809595** is now confirmed (P3 GAD, ACTIVE_NOT_RECRUITING).
 34. **Helus/Cybin Breakthrough Therapy** — COMPANY/trade.
 35. **BPL-003 End-of-Phase 2 meeting** claimed; **P3 NCT not posted** in this pass.
 36. **Eli Lilly acquisition of AtaiBeckley closed 11 Sep 2026** — COMPANY/SEC, not an FDA efficacy finding.
@@ -783,11 +881,11 @@ This section is part of the deliverable. Items are **open** unless a later prima
 41. **Ibogaine RFI** Docket FDA-2026-N-10429 — comments through **20 November 2026**. Design elements (≤10 mg/kg starting dose, dose-ascending, cardiac/neurologic monitoring, independent safety oversight) are **under consideration**, not adopted rules.
 42. **FDA Part 15 hearing (Sep 2026)** — engagement, not a decision; transcript/use in future guidance not followed in this pass.
 43. **July 2026 final trial guidance** — exists as GUIDANCE; how it will be applied to COMP360/Usona/Resilient reviews is **OPEN**.
-44. **GH001 P3 initiation 2026** — company claim after hold lift; confirm NCT when posted.
+44. **GH001 P3 initiation 2026** — company claim after hold lift; **no P3 NCT** located 11 Nov 2026 (**STILL UNVERIFIED**).
 
 ### E. Proposed, not adopted / not in force
 
-45. **TMB parenteral ketamine rules** 22 TAC Ch. 173 Subch. B §§173.6–173.18 — **proposed** as of sources dated May 2026. Confirm Texas Register.
+45. **TMB parenteral ketamine rules** — May 2026 §§173.6–173.18 **withdrawn 29 June 2026**; July 2026 §§173.6–173.17 still **proposed, not adopted**.
 46. **Australia May 2026 AP-scheme recommendations** — TGA recommendations **not implemented as regulation** as of AMAPP tracker. Four clusters (competency, dyad widening, on-site AP, site details) are **PROPOSAL**.
 47. **Texas HB 4014 / HB 4813** — died in Senate HHS. Not law.
 48. **Texas SB 2308 private-match legal tension** — COMMENTARY that HHSC should not disburse $50M without the match; “fully fund” / $100M talk **OPEN** operationally; **no listed pivotal IMPACT NCT**.
@@ -822,7 +920,7 @@ This section is part of the deliverable. Items are **open** unless a later prima
 71. **RANZCP May 2026 guidance does not create NZ prescribing rights.**
 72. **AHPRA:** no standalone “psychedelic practitioner” registration; who may sit in the AU dyad remains contested (Medscape 2026; PACFA vs clinical-psychologist endorsement).
 73. **Colorado two-year facilitator sexual clock vs CRPO/AAMFT/MAPS** — policy conflict unresolved at national level.
-74. **New Mexico, other US state programs, city decrim** — outside the five-jurisdiction Pass 4 core; best-practices mentions remain **[verify]**.
+74. **New Mexico, other US state programs, city decrim** — NM Act 2025 / first-patients target confirmed; other state programs and city decrim remain outside the five-jurisdiction core.
 
 ### H. Journals, codes, and philosophy gaps
 
@@ -870,8 +968,11 @@ This section is part of the deliverable. Items are **open** unless a later prima
 - [`research-notes/fda-and-jurisdictions.md`](research-notes/fda-and-jurisdictions.md) — primary FDA/jurisdiction notes and high-value URL list (FDA hub, PDAC minutes, CRL PDF, Compass IR, OHA Year in Review, Texas SB 2308, Canada.ca SAC/SAP, TGA/RANZCP, NZ MoH).
 - [`research-notes/youtube-podcasts-criticisms.md`](research-notes/youtube-podcasts-criticisms.md) — Cover Story transcripts, MAPS statements, PDAC/ICER, selected papers (Noor, Devenot, disability papers, ibogaine cardiotoxicity PMC13155281, integration DOIs).
 - [`research-notes/journals-and-national-codes.md`](research-notes/journals-and-national-codes.md) — full paper list with DOIs; code URLs (APA, CPA, ACA, RANZCP, ANA, AAMFT, NAADAC, AAPA, APC, TCPS 2, NHMRC 2025, NEAC, Common Rule, MCNZ, KAP).
-- [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md) — PR #3 per-drug file (copied onto this branch).
-- [`psychedelic-best-practices-process.md`](psychedelic-best-practices-process.md) — PR #3 process file (copied onto this branch).
+- [`psychedelic-best-practices-by-drug.md`](psychedelic-best-practices-by-drug.md) — per-drug file with Pass 5 citation/scheduling corrections.
+- [`psychedelic-best-practices-process.md`](psychedelic-best-practices-process.md) — process file with Pass 5 citation corrections.
+- [`research-notes/verify-audit-pass5.md`](research-notes/verify-audit-pass5.md) — 25/12/3 audit.
+- [`research-notes/pass5-societies-cases-jurisdictions.md`](research-notes/pass5-societies-cases-jurisdictions.md) — societies, Oregon/Colorado, AU AP, board cases.
+- [`research-notes/pass5-international-equity-research.md`](research-notes/pass5-international-equity-research.md) — WHO/INCB, Nagoya/Gabon, VA/DoD, Lykos ethics.
 
 ### High-value primary pointers (non-exhaustive)
 
@@ -879,7 +980,7 @@ This section is part of the deliverable. Items are **open** unless a later prima
 
 **Oregon:** 2025 Year in Review PDF · OPS dashboard · OAR 333-333 10.24.25 redline · HB 2387 facilitator letter and scope fact sheet · PMC13348737 · PMC13659005.
 
-**Texas:** Abbott SB 2308 press · bill analysis SB02308F · UTHealth Houston IMPACT · Texas Tribune 31 Mar 2026 and 28 Apr 2026 · TMB proposed 173.6–173.18 · HB 4014 history.
+**Texas:** Abbott SB 2308 press · bill analysis SB02308F · UTHealth Houston IMPACT · Texas Tribune 31 Mar 2026 and 28 Apr 2026 · TMB July 2026 reproposal 173.6–173.17 (May 173.6–173.18 withdrawn) · HB 4014 history.
 
 **Canada:** SAP stakeholder notice · SAC consensus statements · CPSA ketamine Mar 2026 · CPSBC ketamine PDF · CRPO PAP Oct 2026 · CPHA 2024 · CBC ayahuasca s.56 reporting.
 
@@ -889,7 +990,7 @@ This section is part of the deliverable. Items are **open** unless a later prima
 
 **Cover Story:** The Cut episode transcripts listed in the media notes; Monroe; Rosin video essay; Ross & Nickles on Doblin; MAPS 2019 ethics statement and 2022 Cover Story response; CBC/ABC video packages.
 
-**Journals / consensus:** Jacobs 2023; Smith & Sisti 2021; Villiger 2024; HOPE report.pdf; McGuire Banbury 2024 *JAMA Network Open*; Celidwen 2023; Villiger *Philosophy Compass* 2025.
+**Journals / consensus:** Jacobs 2023; Smith & Sisti *JME* 2021;47:807–814 (online 2020); Villiger 2024; HOPE report.pdf; McGuire Banbury 2024 *JAMA Network Open*; Celidwen 2023; Villiger *Philosophy Compass* 2025; Alper 2012 *J Forensic Sci*; Breeksema 2020 *CNS Drugs*; Nagele 2021 *Sci Transl Med*.
 
 ---
 
@@ -903,4 +1004,4 @@ This section is part of the deliverable. Items are **open** unless a later prima
 
 ---
 
-*Compiled 10 November 2026 (America/New_York) from Passes 1–4 and PR #3 best-practices files. Re-check the OPEN items before treating any row as current law or current FDA status.*
+*Compiled 11 November 2026 (America/New_York) from Passes 1–5 and the best-practices files. Pass 5 applied 12 corrections and added gap analysis. Re-check STILL UNVERIFIED and OPEN 33–99 items before treating any row as current law or current FDA status.*

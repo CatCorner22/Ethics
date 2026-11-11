@@ -1,6 +1,6 @@
 # Psychedelic and related medicines: recommended best practices by drug
 
-**Not legal or medical advice.** This is a research synthesis for discussion by licensed professionals. It is not a clinical guideline, not a regulatory opinion, and not authorization to possess, prescribe, or administer controlled substances. Law, labels, and trial results in this field change quickly. Anything marked **[verify]** was written from memory of the literature and regulator materials and **was not re-checked against live sources** when this file was drafted (November 2026). Check the current FDA label, DEA/Health Canada notices, state or provincial law, and your own college or board before acting.
+**Not legal or medical advice.** This is a research synthesis for discussion by licensed professionals. It is not a clinical guideline, not a regulatory opinion, and not authorization to possess, prescribe, or administer controlled substances. Law, labels, and trial results in this field change quickly. **Pass 5 (11 November 2026)** live-checked the original **[verify]** flags: remaining unverified items are tagged **[still unverified]**. Check the current FDA label, DEA/Health Canada notices, state or provincial law, and your own college or board before acting.
 
 Companion files: [process-level best practices (recording, cooling-off, chaperones, consent timing, etc.)](psychedelic-best-practices-process.md) and the [24-concept ethics framework](psychedelic-ethics-research-chat.md) (Track A: monitored dosing without psychotherapy; Track B: psychedelic-assisted psychotherapy).
 
@@ -33,12 +33,12 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 | --- | --- | --- | --- | --- |
 | Psilocybin | Schedule I; FDA breakthrough designations; state programs (OR, CO; NM medical program) | Schedule III CDSA; Special Access Program (SAP), trials, s.56 exemptions | None | Trial-grade (TRD, MDD, alcohol use disorder) |
 | MDMA | Schedule I; FDA complete response letter 2024 | Schedule I CDSA; SAP, trials | None | Trial-grade (PTSD), contested |
-| Ketamine (racemic) | Schedule III; off-label for depression | Prescription (CDSA Sch. I, Part 1 item) **[verify]**; off-label | Anesthesia | Consensus / off-label; strongest approved-adjacent evidence |
-| Esketamine (Spravato) | Schedule III; REMS | Approved (Health Canada, 2020) **[verify]** | TRD; MDD with suicidal ideation (US) | **Approved** |
-| LSD | Schedule I | Schedule III CDSA | None | Early trial-grade (GAD) |
-| Ayahuasca / DMT | Schedule I (DMT); religious exemptions for some churches | DMT Schedule III **[verify]**; s.56 religious exemptions | None | Small trials; mostly traditional/unregulated |
-| 5-MeO-DMT | Schedule I | Schedule III **[verify]** | None | Early phase |
-| Ibogaine | Schedule I | Not a CDSA-scheduled substance but prescription-only **[verify]** | None | Anecdotal; small open-label data |
+| Ketamine (racemic) | Schedule III; off-label for depression | Prescription (CDSA Schedule I, item 14(1), listed under phencyclidine); off-label | Anesthesia | Consensus / off-label; strongest approved-adjacent evidence |
+| Esketamine (Spravato) | Schedule III; REMS | Approved (Health Canada Notice of Compliance 2020-05-20) | TRD; MDD with suicidal ideation (US); US monotherapy for TRD 17 Jan 2025 | **Approved** |
+| LSD | Schedule I | Schedule III CDSA | None | Trial-grade Phase 3 (GAD/MDD; Definium DT120/MM120) |
+| Ayahuasca / DMT | Schedule I (DMT); religious exemptions for some churches | DMT Schedule III item 7; s.56 religious exemptions | None | Small trials; mostly traditional/unregulated |
+| 5-MeO-DMT | Schedule I | **Not named** on CDSA schedules; sale regulated under the Food and Drugs Act (Health Canada NPS example) | None | Post–Phase 2b (GH001 hold lifted 5 Jan 2026; BPL-003 P2b completed) |
+| Ibogaine | Schedule I | Not a CDSA-scheduled substance but prescription-only (PDL, 19 May 2017); not authorized for use | None | Anecdotal; small open-label data |
 | Mescaline / peyote | Schedule I; NAC exemption for peyote | Schedule III | None | Early; mostly sacramental |
 | Nitrous oxide | Not a controlled substance (FDA-regulated gas) | Regulated gas | Anesthesia/analgesia | Small trials for TRD |
 
@@ -46,9 +46,9 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 ## 1. Psilocybin
 
-**Regulatory status.** US: Schedule I under the Controlled Substances Act; FDA breakthrough-therapy designations for Compass Pathways (COMP360, treatment-resistant depression, 2018) and Usona (major depressive disorder, 2019). State programs: Oregon (Measure 109, supervised adult-use "psilocybin services" since 2023), Colorado (Proposition 122, natural medicine healing centers phased in from 2025), New Mexico (Medical Psilocybin Act, 2025, program build-out scheduled for later years) **[verify]**. These state programs are **not FDA approval** and not medical prescribing; federal law still applies. Canada: psilocybin is Schedule III under the CDSA; Health Canada's SAP resumed granting case-by-case access to psilocybin and MDMA for practitioners in January 2022; clinical trials and s.56 exemptions are other routes. Alberta regulates psychedelic drug treatment services under its 2023 standards.
+**Regulatory status.** US: Schedule I under the Controlled Substances Act; FDA breakthrough-therapy designations for Compass Pathways (COMP360, treatment-resistant depression, 2018) and Usona (major depressive disorder, 2019). State programs: Oregon (Measure 109, supervised adult-use "psilocybin services" since 2023), Colorado (Proposition 122, natural medicine healing centers phased in from 2025), New Mexico (Medical Psilocybin Act / SB 219 signed April 2025, effective 20 June 2025; NMDOH goal of first patients by end of December 2026; statute allows implementation through 31 December 2027). These state programs are **not FDA approval** and not medical prescribing; federal law still applies. Canada: psilocybin is Schedule III under the CDSA; Health Canada's SAP resumed granting case-by-case access to psilocybin and MDMA for practitioners in January 2022; clinical trials and s.56 exemptions are other routes. Alberta regulates psychedelic drug treatment services under its 2023 standards.
 
-**Evidence.** Phase 2 trials in depression (Carhart-Harris 2021 vs escitalopram; Davis 2021 *JAMA Psychiatry*; Goodwin 2022 *NEJM* dose-finding for COMP360 in TRD) and alcohol use disorder (Bogenschutz 2022 *JAMA Psychiatry*). Phase 3 programs reported in 2025 **[verify]**. CANMAT 2023 graded the evidence low and the treatment experimental. Common caveats: unblinding, expectancy, small samples, few diverse participants.
+**Evidence.** Phase 2 trials in depression (Carhart-Harris 2021 vs escitalopram; Davis 2021 *JAMA Psychiatry*; Goodwin 2022 *NEJM* dose-finding for COMP360 in TRD) and alcohol use disorder (Bogenschutz 2022 *JAMA Psychiatry*). Phase 3: Compass IR 23 June 2025, COMP005 (NCT05624268) met week-6 MADRS primary; COMP006 ongoing in 2025; Usona uAspire (NCT06308653) is P3. CANMAT 2023 graded the evidence low and the treatment experimental. Common caveats: unblinding, expectancy, small samples, few diverse participants.
 
 **Screening and contraindications.** Personal or first-degree family history of psychosis or bipolar I; unstable cardiovascular disease or uncontrolled hypertension; pregnancy; lithium (reports of seizures/ unpredictable reactions in observational data); active mania; severe untreated suicidality in many protocols. Serotonergic antidepressants may blunt effects and are usually tapered only under a prescriber's plan—do not stop psychotropics casually (FDA PDAC concerns; Alberta s.5).
 
@@ -60,7 +60,7 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 **Integration.** Follow-up within about 24–72 hours and again within weeks; psychotherapy integration in Track B, referral in Track A. Watch for delayed distress, derealization, mania, and relationship disruption.
 
-**Adverse events.** Transient anxiety, nausea, headache, elevated BP/HR; less commonly persistent perceptual disturbance (HPPD), prolonged psychological distress, psychosis or mania in vulnerable people; suicidal ideation can occur in trials and has been reported at follow-up (Schlag et al. 2022; Breeksema et al. 2020 on challenging experiences). Sexual boundary violations are a documented risk category in psychedelic therapy more broadly.
+**Adverse events.** Transient anxiety, nausea, headache, elevated BP/HR; less commonly persistent perceptual disturbance (HPPD), prolonged psychological distress, psychosis or mania in vulnerable people; suicidal ideation can occur in trials and has been reported at follow-up (Schlag et al. 2022; Breeksema et al. 2020 *CNS Drugs* systematic review of psychedelic treatments; Breeksema et al. 2024 *Sci Rep* TRD-psilocybin interviews). Sexual boundary violations are a documented risk category in psychedelic therapy more broadly.
 
 **Abuse / diversion.** Lower classical abuse liability than stimulants or opioids, but Schedule I status means strict custody; Oregon/Colorado have track-and-trace requirements for products.
 
@@ -92,7 +92,7 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 ## 3. Ketamine (racemic) and esketamine (Spravato)
 
-**Regulatory status.** US: ketamine is Schedule III, approved as an anesthetic; depression use is **off-label**. Esketamine nasal spray (Spravato) was approved by FDA in March 2019 for treatment-resistant depression with a REMS, and later for depressive symptoms in MDD with acute suicidal ideation; an approval as monotherapy followed in 2025 **[verify]**. The FDA warned in October 2023 about compounded ketamine products. Telehealth prescribing of controlled substances has relied on repeated DEA flexibilities **[verify current expiry]**. Canada: ketamine is a CDSA-controlled, prescription-only drug; esketamine is approved for TRD (Health Canada, 2020 **[verify]**). College guidance: CPSBC ketamine professional guideline (IV only in hospital/accredited facility; monitor sedation; diversion expectations), CPSO has no ketamine-specific policy but CAM policy and premises (OHPIP) apply; KATA/OMA Psychedelic MIG recommendations (2023).
+**Regulatory status.** US: ketamine is Schedule III, approved as an anesthetic; depression use is **off-label**. Esketamine nasal spray (Spravato) was approved by FDA in March 2019 for treatment-resistant depression with a REMS, and later for depressive symptoms in MDD with acute suicidal ideation; sNDA 211243/S-016 (17 January 2025) expanded the indication to **monotherapy** for TRD. The FDA warned in October 2023 about compounded ketamine products. Telehealth prescribing of controlled substances relies on DEA’s **fourth temporary extension** of COVID-19 telemedicine flexibilities (21 CFR 1307.41), **expiring at the end of 31 December 2026**. Canada: ketamine is CDSA **Schedule I, item 14(1)** (listed under phencyclidine); esketamine has a Health Canada Notice of Compliance **2020-05-20** (Spravato, Janssen). College guidance: CPSBC ketamine professional guideline (IV only in hospital/accredited facility; monitor sedation; diversion expectations), CPSO has no ketamine-specific policy but CAM policy and premises (OHPIP) apply; KATA/OMA Psychedelic MIG recommendations (2023).
 
 **Evidence.** Strongest rapid-antidepressant evidence among these drugs: Berman 2000; Zarate 2006; Murrough 2013; Popova 2019 *Am J Psychiatry* (esketamine plus oral antidepressant); ESCAPE-TRD (Reif 2023 *NEJM*, esketamine vs quetiapine XR). Effects are often short-lived without maintenance; long-term safety data are limited; Sanacora et al. 2017 *JAMA Psychiatry* consensus statement is the key US expert document.
 
@@ -114,9 +114,9 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 ## 4. LSD (lysergic acid diethylamide)
 
-**Regulatory status.** US Schedule I; Canada Schedule III. Not approved anywhere for a medical indication. Industry-sponsored development (for example MindMed's MM120 for generalized anxiety disorder) is in phase 2b/3 **[verify current stage]**; academic Swiss compassionate-use LSD-assisted therapy has existed since 2014.
+**Regulatory status.** US Schedule I; Canada Schedule III. Not approved anywhere for a medical indication. Definium Therapeutics (formerly MindMed) **DT120/MM120** Phase 2b GAD is published; three **Phase 3** trials: Voyage NCT06741228 (GAD, ACTIVE_NOT_RECRUITING); Emerge NCT06941844 (MDD); **Panorama NCT06809595** (GAD, ACTIVE_NOT_RECRUITING, n=245). Academic Swiss compassionate-use LSD-assisted therapy has existed since 2014.
 
-**Evidence.** Gasser et al. 2014/2015 pilot for anxiety in life-threatening illness; Holze et al. 2021 and later phase 2 work; a phase 2b dose-ranging trial in GAD published in 2025 **[verify citation]**. Evidence base is small and early.
+**Evidence.** Gasser et al. 2014/2015 pilot for anxiety in life-threatening illness; Holze et al. 2021 and later phase 2 work; Robison et al. 2025 *JAMA* (DOI 10.1001/jama.2025.13481), NCT05407064, n=198, 100 µg and 200 µg beat placebo on HAM-A at week 4. Phase 3 programs are running; no marketing approval.
 
 **Screening and contraindications.** As for classic psychedelics: psychosis spectrum/bipolar I (personal or first-degree family), pregnancy, uncontrolled cardiovascular disease; avoid with lithium; review serotonergic and antipsychotic medications. Duration is long (about 8–12 hours), so physical stamina and cardiovascular stability matter.
 
@@ -136,9 +136,9 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 ## 5. Ayahuasca and DMT
 
-**Regulatory status.** US: DMT is Schedule I; ayahuasca (DMT plus an MAOI) is treated as containing a controlled substance. *Gonzales v. O Centro Espírita Beneficente União do Vegetal*, 546 U.S. 418 (2006) required the government to justify burdening sincere religious use under RFRA; the Santo Daime-affiliated *Church of the Holy Light of the Queen* also obtained an Oregon federal ruling (2009). These exemptions cover **religious practice**, not medical practice. Canada: DMT is Schedule III; Health Canada s.56 exemptions (since 2017) for UDV and Santo Daime members. Some US cities decriminalize "entheogenic plants"; Colorado's natural medicine program covers DMT (non-peyote plant medicines) with a later start than psilocybin **[verify]**.
+**Regulatory status.** US: DMT is Schedule I; ayahuasca (DMT plus an MAOI) is treated as containing a controlled substance. *Gonzales v. O Centro Espírita Beneficente União do Vegetal*, 546 U.S. 418 (2006) required the government to justify burdening sincere religious use under RFRA; the Santo Daime-affiliated *Church of the Holy Light of the Queen* also obtained an Oregon federal ruling (2009). These exemptions cover **religious practice**, not medical practice. Canada: DMT is Schedule III item 7; Health Canada s.56 exemptions (since 2017) for UDV and Santo Daime members. Some US cities decriminalize "entheogenic plants"; Colorado’s regulated “natural medicine” is **only psilocybin and psilocyn until 1 June 2026**; after that date DMT, ibogaine, and mescaline (excluding peyote) **may** be added if the Advisory Board recommends and directors approve — not automatic.
 
-**Evidence.** Small randomized trial in treatment-resistant depression (Palhano-Fontes 2019 *Psychol Med*); observational and ceremonial data; Gable 2007 risk assessment; synthetic DMT trials (for example Small Pharma SPL026 phase 2a) are early **[verify]**.
+**Evidence.** Small randomized trial in treatment-resistant depression (Palhano-Fontes 2019 *Psychol Med*); observational and ceremonial data; Gable 2007 risk assessment; synthetic DMT: Small Pharma/Helus **SPL026** Phase 2a (NCT04673383) is **COMPLETED** (primary completion 2022-10-01) and published in *Nature Medicine* (DOI 10.1038/s41591-025-04154-z). Not an NDA-stage US program.
 
 **Screening and contraindications.** MAOI interaction danger: serotonergic antidepressants (SSRIs, SNRIs, tramadol, dextromethorphan, stimulants, MDMA, some cold medicines) can cause serotonin syndrome or hypertensive crisis; tyramine-rich foods; psychosis spectrum/bipolar I; significant cardiovascular disease; pregnancy; pheochromocytoma and other conditions exacerbated by MAOIs. Dietary restrictions before ceremonies are traditional but should be medically sensible.
 
@@ -158,21 +158,21 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 ## 6. 5-MeO-DMT (including toad-derived) and other short-acting tryptamines
 
-**Regulatory status.** US Schedule I; Canada Schedule III **[verify]**. Industry programs (for example GH Research's GH001 inhaled 5-MeO-DMT) are early-phase **[verify]**.
+**Regulatory status.** US Schedule I. Canada: 5-MeO-DMT is **not named** on CDSA Schedules I–III (DMT item 7 is a different molecule); Health Canada treats it as an NPS whose **sale** is regulated under the Food and Drugs Act. GH Research **GH001** inhaled 5-MeO-DMT: Phase 2b GH001-TRD-201 completed; FDA **lifted the IND clinical hold 5 January 2026**; company still **targets** global Phase 3 initiation in 2026. No GH001 TRD Phase 3 NCT was located on ClinicalTrials.gov as of 11 Nov 2026 **[still unverified]**.
 
 **Best-practice notes.** Very short, intense onset (minutes). Medical readiness for sudden loss of control, vomiting, hypertension, and (rarely) arrhythmia. Contraindicated with MAOIs. Toad (*Incilius alvarius*) sourcing raises **ecological** and cultural concerns; prefer synthetic. Cardiac and psychosis screening as for other classic psychedelics. Evidence is largely survey-based and early open-label.
 
-**Key sources.** Reckweg et al. 2022 and 2023 on 5-MeO-DMT in early trials **[verify]**; Celidwen 2023 on sourcing ethics.
+**Key sources.** Reckweg et al. 2021 *Front Pharmacol* (healthy-volunteer GH001 P1); Reckweg et al. 2022 *J Neurochem* (pharmacology review, not a trial); Reckweg et al. 2023 *Front Psychiatry* (GH001 P1/2 in TRD, NCT04698603); Celidwen 2023 on sourcing ethics.
 
 ---
 
 ## 7. Ibogaine / noribogaine
 
-**Regulatory status.** US Schedule I; no federal approval. In 2025 Texas appropriated public funds to support ibogaine clinical research (matching-fund structure) and other states (for example Arizona) funded studies **[verify amounts]**. Canada: ibogaine is not a CDSA-scheduled substance but is a prescription drug under the food and drug regulations **[verify]**. Most treatment occurs in clinics in Mexico and elsewhere, outside US/Canadian regulation.
+**Regulatory status.** US Schedule I; no federal approval. In 2025 Texas appropriated public funds to support ibogaine clinical research (SB 2308, $50 million). Arizona enacted **$5,000,000** FY2026 General Fund ibogaine clinical-research grant (budget **SB 1735**; ADHS awarded to Barrow Neurological Institute, Aug 2026). Canada: ibogaine is not a CDSA-scheduled substance; Health Canada Notice of Amendment **19 May 2017** added ibogaine and salts/derivatives/analogues to the Prescription Drug List. “Ibogaine is not authorized for use in Canada.” Most treatment occurs in clinics in Mexico and elsewhere, outside US/Canadian regulation.
 
 **Evidence.** Mostly observational; a small open-label study in veterans with traumatic brain injury (Cherian et al. 2024 *Nat Med*) used magnesium co-administration and cardiac monitoring and reported improvements in disability/psychiatric measures; opioid-withdrawal data are mostly retrospective (Noller 2018; Brown & Alper 2018).
 
-**Screening and contraindications.** **Cardiac risk is the central issue**: QT prolongation, torsades de pointes, and sudden death (hERG blockade; Alper 2012 case series; Koenig & Hilber 2015). Exclude or manage with specialist input: baseline long QT, bradycardia, structural heart disease, electrolyte abnormalities (potassium, magnesium), liver impairment, concomitant QT-prolonging drugs, strong CYP2D6 inhibitors; also screen for psychosis and seizure disorders. Microdosing does not waive cardiac screening (Brunt 2026 *Addiction* per the framework file).
+**Screening and contraindications.** **Cardiac risk is the central issue**: QT prolongation, torsades de pointes, and sudden death (hERG blockade; Alper, Stajić & Gill 2012 *J Forensic Sci* fatality review, 19 deaths 1990–2008; Koenig & Hilber 2015). Exclude or manage with specialist input: baseline long QT, bradycardia, structural heart disease, electrolyte abnormalities (potassium, magnesium), liver impairment, concomitant QT-prolonging drugs, strong CYP2D6 inhibitors; also screen for psychosis and seizure disorders. Microdosing does not waive cardiac screening (Brunt 2026 *Addiction* per the framework file).
 
 **Dosing and setting.** Dose is not standardized across providers; cardiac-capable setting with continuous ECG, defibrillation capability, IV access, and a clinician trained to treat torsades; correct potassium/magnesium before dosing; avoid dosing patients on opioids or sedatives without medically supervised withdrawal planning.
 
@@ -184,15 +184,15 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 **Abuse / diversion.** Primary risks are unsafe supply and unsupervised use; no take-home.
 
-**Key sources.** Alper et al. 2012; Koenig & Hilber 2015 *Molecules*; Cherian et al. 2024 *Nat Med*; Noller et al. 2018 *Am J Drug Alcohol Abuse*; Brown & Alper 2018; Brunt 2026.
+**Key sources.** Alper KR, Stajić M, Gill JR. 2012. *J Forensic Sci* 57(2):398–412 (PMID 22268458); Koenig & Hilber 2015 *Molecules*; Cherian et al. 2024 *Nat Med*; Noller et al. 2018 *Am J Drug Alcohol Abuse*; Brown & Alper 2018; Brunt 2026. Jalal et al. 2013 *Am J Addict* is a single-case report, not the 2012 fatality review.
 
 ---
 
 ## 8. Mescaline (peyote, San Pedro, synthetic)
 
-**Regulatory status.** US: mescaline and peyote are Schedule I, but federal regulations exempt bona fide **Native American Church** use of peyote (21 CFR 1307.31; AIRFA amendments 1994). The exemption is religious and tied to NAC membership, not a medical authorization. State bans on peyote cultivation or use may still apply. Canada: mescaline (and peyote) are Schedule III, with no general NAC exemption comparable to the US rule **[verify]**. Colorado's natural medicine framework includes mescaline derived from non-peyote sources, not peyote **[verify]**.
+**Regulatory status.** US: mescaline and peyote are Schedule I, but federal regulations exempt bona fide **Native American Church** use of peyote (21 CFR 1307.31; AIRFA amendments 1994). The exemption is religious and tied to NAC membership, not a medical authorization. State bans on peyote cultivation or use may still apply. Canada: CDSA Schedule III item 17 lists mescaline **but not peyote (*Lophophora*)**; isolated mescaline is scheduled; there is **no** 21 CFR 1307.31-style NAC membership exemption. Colorado: “mescaline” **may** be added on/after 1 June 2026 if recommended; **“mescaline” does not include peyote**.
 
-**Evidence.** Very limited: historical studies and small modern analyses; early-phase synthetic mescaline research exists but is not mature **[verify]**.
+**Evidence.** Very limited: historical studies and small modern analyses. Modern human data are **Phase 1** healthy-volunteer PK/PD studies (NCT04227756, NCT04849013, University Hospital Basel; PK paper *Clin Pharmacokinet* 2025). **No US Phase 3** located.
 
 **Screening, dosing, monitoring.** Treat as other long-acting classic psychedelics (10–12 hour effect): screen for psychosis spectrum and cardiovascular disease, avoid MAOI combinations where relevant, monitor BP/HR and nausea/vomiting (common). No standard medical dose exists.
 
@@ -208,7 +208,7 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 | Agent | Notes |
 | --- | --- |
-| **Nitrous oxide** | Small trials in TRD (for example Nagele et al. 2015 *Biol Psychiatry*, Nagele 2021 *Biol Psychiatry* **[verify]**). Not a controlled substance; occupational/misuse hazards (B12 deficiency, neuropathy) and scavenging requirements. |
+| **Nitrous oxide** | Small trials in TRD (Nagele et al. 2015 *Biol Psychiatry* 78(1):10–18; Nagele et al. 2021 *Sci Transl Med* 13(597):eabe1376, NCT03283670). Not a controlled substance; occupational/misuse hazards (B12 deficiency, neuropathy) and scavenging requirements. |
 | **Psilocybin/LSD analogs and novel short-acting agents** (e.g. proprietary deuterated psilocin, 5-MeO-DMT formulations) | Early phase; follow trial protocols only. |
 | **Cannabis** | Not usually classed as a classic psychedelic; mention because many patients co-use. Interacts with psychosis risk and sedation. |
 | **Salvia divinorum, ketamine analogs (e.g. arketamine), and psychoplastogens** | Mostly preclinical or early-phase. |
@@ -229,12 +229,12 @@ These come from the human-hallucinogen safety guidelines and later consensus wor
 
 ## Sources (alphabetical, with verification status)
 
-Full citations below are given as author/title/venue/year. **No live web verification was performed**; confirm exact titles, DOIs, and current regulatory pages before relying on them.
+Full citations below are given as author/title/venue/year. Pass 5 (11 Nov 2026) live-checked high-value rows marked CORRECTED below; remaining titles in this alphabetical list were **not** re-checked title-by-title **[still unverified as a blanket list]**.
 
 - Aday JS et al. 2020. "Great Expectations: recommendations for improving the methodological rigor of psychedelic clinical trials." *Psychopharmacology*.
-- Alper KR et al. 2012. Ibogaine fatality case review. *Am J Addict* / related **[verify]**.
+- Alper KR, Stajić M, Gill JR. 2012. Fatalities temporally associated with the ingestion of ibogaine. *J Forensic Sci* 57(2):398–412. PMID 22268458. (Jalal et al. 2013 *Am J Addict* is a separate single-case report.)
 - Bogenschutz MP et al. 2022. Psilocybin-assisted treatment for alcohol dependence. *JAMA Psychiatry*.
-- Breeksema JJ et al. 2020. Patient perspectives and experiences with psilocybin treatment for treatment-resistant depression. *Front Psychiatry* **[verify]**.
+- Breeksema JJ et al. 2020. Psychedelic treatments for psychiatric disorders. *CNS Drugs* 34:925–946. DOI 10.1007/s40263-020-00748-y. TRD-psilocybin qualitative interviews: Breeksema et al. 2024 *Sci Rep* 14:2929. (*Front Psychiatry* 2022 is oral esketamine.)
 - Brown TK & Alper K. 2018. Treatment of opioid use disorder with ibogaine. *Am J Drug Alcohol Abuse*.
 - Carhart-Harris R et al. 2021. Trial of psilocybin versus escitalopram for depression. *NEJM*.
 - CANMAT Task Force. 2023. Serotonergic psychedelic treatments for major depressive disorder. *Can J Psychiatry*.
@@ -268,4 +268,4 @@ Full citations below are given as author/title/venue/year. **No live web verific
 
 ## Disclaimer
 
-This document is an educational research synthesis, **not legal or medical advice**, and not a substitute for current product labels, regulator guidance, trial protocols, or the standards of your college or board. Doses and parameters quoted are descriptions of published trial or label practice, not recommendations to prescribe. Items marked **[verify]** are unconfirmed. Consult counsel and your regulator before offering any service involving a controlled substance.
+This document is an educational research synthesis, **not legal or medical advice**, and not a substitute for current product labels, regulator guidance, trial protocols, or the standards of your college or board. Doses and parameters quoted are descriptions of published trial or label practice, not recommendations to prescribe. Items marked **[still unverified]** remain open after Pass 5. Consult counsel and your regulator before offering any service involving a controlled substance.

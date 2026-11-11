@@ -1,6 +1,6 @@
 # Process-level best practices for patient and provider outcomes
 
-**Not legal or medical advice.** Research synthesis for discussion by licensed professionals. Items marked **[verify]** were written from memory and not re-checked against live sources (drafted November 2026). Laws and college standards differ by jurisdiction and change; confirm with your regulator and counsel.
+**Not legal or medical advice.** Research synthesis for discussion by licensed professionals. **Pass 5 (11 November 2026)** live-checked the original **[verify]** flags. Remaining research-gap items (no RCT of recording/chaperones/cooling-off) are tagged **[still unverified]**. Laws and college standards differ by jurisdiction and change; confirm with your regulator and counsel.
 
 Companion files: [per-drug best practices](psychedelic-best-practices-by-drug.md) and the [24-concept framework (Track A / Track B)](psychedelic-ethics-research-chat.md).
 
@@ -27,19 +27,19 @@ Almost none of the practices below has been tested in a randomized trial of **pr
 **Recommended practice.**
 
 1. **Stage it.** Give written information early (at screening or booking), discuss it in a preparation visit, and **reconfirm** on dosing day before ingestion while the patient is sober and has capacity. Do not obtain first-time consent on the dosing day under time or payment pressure. Where a payment is due, the consent conversation should come first and be separable from the sale.
-2. **Content.** Indication and evidence grade; investigational/off-label/SAP status; alternatives including conventional care and no treatment; conflicts of interest and fees; expected time course; physical and psychiatric risks; possible lasting changes in values, beliefs, or relationships (enhanced consent; Smith & Sisti 2020; Jacobs 2023); possibility of no benefit; suggestibility; who will be in the room; **recording policy; touch policy; limits of confidentiality, including that insurers, employers, workers' compensation boards, or courts may compel records** (College of Alberta Psychologists 2025).
+2. **Content.** Indication and evidence grade; investigational/off-label/SAP status; alternatives including conventional care and no treatment; conflicts of interest and fees; expected time course; physical and psychiatric risks; possible lasting changes in values, beliefs, or relationships (enhanced consent; Smith & Sisti, *J Med Ethics* 2021;47(12):807–814, published online 27 May 2020; Jacobs 2023); possibility of no benefit; suggestibility; who will be in the room; **recording policy; touch policy; limits of confidentiality, including that insurers, employers, workers' compensation boards, or courts may compel records** (College of Alberta Psychologists 2025).
 3. **Capacity rule.** Bind optional preferences before dosing; after ingestion allow patients to tighten but not loosen restrictions (touch, visitors, recording). Intoxicated speech is not later sexual or financial consent (see the framework file).
 4. **Process, not a form.** Teach-back, time for questions, a copy of the document, and an explicit right to withdraw before and during the session.
 
-**Evidence.** General informed-consent law and AMA Opinion 2.1.1 (2024) support documented, capacitous consent. Psychedelic-specific papers (HOPE 2024; Neuroethics 2026 consent study; Brittain et al. 2025 scoping review) recommend consent as a process, including disclosure of disappointment and identity-level change. Oregon requires pre-session preparation and written client information; Colorado requires consent each session **[verify specifics]**.
+**Evidence.** General informed-consent law and AMA Opinion 2.1.1 (2024) support documented, capacitous consent. Psychedelic-specific papers (HOPE 2024; Neuroethics 2026 consent study; Brittain et al. 2025 scoping review) recommend consent as a process, including disclosure of disappointment and identity-level change. Oregon: OAR **333-333-5000** preparation session ≥24 hours and ≤90 days before first administration; **333-333-5040** informed-consent document signed before administration; **333-333-5050** Client Information Form before every administration. Colorado: 4 CCR 755-1 **§6.5(B)** facilitator must obtain informed consent before every administration session; §6.5(A) documents safety plan, touch, others present, video recording.
 
 **Criticisms.** (a) The transformative-experience critique: patients cannot fully know the experience beforehand, so "understanding" is limited (Paul; Jacobs 2023); defenders say aspiration to leave a bad status quo can ground consent (Villiger 2024). (b) Preparation both informs and **primes** expectancy, which may inflate effects or amplify nocebo. (c) Long forms can become liability shields rather than communication.
 
 ## 2. Session recording
 
-**Recommended practice.** Offer **audio-visual recording of the active dosing phase** as an optional or default safeguard, with: written, separate consent for recording and for storage/access; a stated retention period; role-based access (named reviewers, not marketing); storage as a health record under privacy law; patient right to ask that recording pause for private needs (for example toileting) with the pause logged; explicit statement that recordings are not testimonials or promotional material; and a defined review use (quality review, complaint investigation, supervision with consent). The College of Alberta Psychologists/CPSA guidance recommends recording the active phase with written consent **[verify wording]**; MDMA phase 3 trials used video of sessions (and the FDA discussion treated abuse deterrence and external review as important).
+**Recommended practice.** Offer **audio-visual recording of the active dosing phase** as an optional or default safeguard, with: written, separate consent for recording and for storage/access; a stated retention period; role-based access (named reviewers, not marketing); storage as a health record under privacy law; patient right to ask that recording pause for private needs (for example toileting) with the pause logged; explicit statement that recordings are not testimonials or promotional material; and a defined review use (quality review, complaint investigation, supervision with consent). CAP Practice Guideline (June 2025): “The CPSA recommends that the active phase of psychedelic treatment be recorded,” so psychologists must obtain **informed, written consent** defining storage, duration, and access. CAP Standards §12.18 separately requires written consent for any session recording. MDMA phase 3 trials used video of sessions (and the FDA discussion treated abuse deterrence and external review as important).
 
-**Evidence.** No trial measures whether recording reduces misconduct. The rationale is deterrence, evidence in complaints, and supervision. Recording was available in the MDMA trial program, yet misconduct in earlier phases was exposed through other channels, which shows recording alone is insufficient.
+**Evidence.** No RCT located (Pass 5, 11 Nov 2026) showing that recording, chaperones, or cooling-off reduce PAT harm **[still unverified as an absence claim / research program]**. The rationale is deterrence, evidence in complaints, and supervision. Recording was available in the MDMA trial program, yet misconduct in earlier phases was exposed through other channels, which shows recording alone is insufficient.
 
 **Criticisms.** Privacy and dignity (patients may be naked of defenses, crying, disinhibited); chilling effect on honest disclosure; breach and subpoena risk (recordings are discoverable and can be demanded by insurers, courts, or employers); consent may be coerced if treatment is conditional on recording; a recorder can create false assurance if no one reviews footage; recordings of identifiable patients complicate research reuse. Mitigations: patient choice with alternative safeguards (second person), minimum retention, encryption, access logs, and legal review before launch.
 
@@ -53,7 +53,7 @@ Almost none of the practices below has been tested in a randomized trial of **pr
 
 ## 4. Chaperones and two-person teams
 
-**Recommended practice.** Two trained persons for hours-long dosing sessions wherever feasible (Health Canada trial risk notices; FDA PDAC 2024; MAPS code), with at least one a licensed clinician. Where intimate examination or touch is required, offer a chaperone and document who was present (AMA Opinion 1.2.4 on use of chaperones; FSMB 2020). Do not leave the patient alone with a single facilitator for extended periods. Do not use a **family member** or untrained assistant as the "chaperone" for a sensitive procedure. Chaperones need training, a stated reporting duty, and independence from the lead clinician's authority (peer-level reporting channel).
+**Recommended practice.** Two trained persons for hours-long dosing sessions wherever feasible (Health Canada trial risk notices; FDA PDAC 2024; MAPS code), with at least one a licensed clinician. Where intimate examination or touch is required, offer a chaperone and document who was present (AMA Code of Medical Ethics **Opinion 1.2.4 Use of Chaperones**, issued 2016; FSMB 2020). Do not leave the patient alone with a single facilitator for extended periods. Do not use a **family member** or untrained assistant as the "chaperone" for a sensitive procedure. Chaperones need training, a stated reporting duty, and independence from the lead clinician's authority (peer-level reporting channel).
 
 **Evidence.** Chaperone policies are standard in medicine to protect patients and clinicians; evidence of effect on misconduct is limited, and chaperone use may reduce reported incidents but also may be inconsistent. In psychedelic trials, co-therapist pairs are standard, yet documented misconduct occurred in a pair-based program, so team size does not replace oversight.
 
@@ -95,7 +95,7 @@ Almost none of the practices below has been tested in a randomized trial of **pr
 
 **Recommended practice.** Caseload and session-length limits (hours-long sessions are physically and emotionally demanding); debriefing after difficult sessions; access to supervision and, where needed, personal therapy; training in vicarious trauma and secondary stress; protection from financial pressure to overbook; clear policies for provider impairment (no services while impaired; Colorado rule) and for providers who disclose their own distress; fair pay and sustainable staffing for second-person roles. Align with nursing codes' duty to self (ANA 2025 provisions 5–6; CNA 2025) and CMA self-care commitment.
 
-**Evidence.** Direct psychedelic evidence is thin. Extrapolated from psychotherapy research on burnout and personal risk factors (for example Simionato & Simpson 2018, *J Clin Psychol* **[verify]**) and from reports of moral injury after boundary crises in the field.
+**Evidence.** Direct psychedelic evidence is thin. Extrapolated from psychotherapy research on burnout and personal risk factors (Simionato & Simpson 2018, *J Clin Psychol* 74(9):1431–1456, DOI 10.1002/jclp.22615, systematic review of 40 articles) and from reports of moral injury after boundary crises in the field.
 
 **Criticisms.** "Wellbeing" language can be used to justify mandatory personal psychedelic experience, which consensus papers reject; limited research means supports are largely untested; resource costs fall on small practices.
 
@@ -121,7 +121,7 @@ Almost none of the practices below has been tested in a randomized trial of **pr
 
 ## Sources
 
-- AMA Code of Medical Ethics, Opinions 1.2.4 (chaperones) **[verify number]**, 2.1.1 (consent, 2024), 3.3.2.
+- AMA Code of Medical Ethics, Opinions 1.2.4 (Use of Chaperones, issued 2016), 2.1.1 (consent, 2024), 3.3.2.
 - FSMB. Report of the Workgroup on Physician Sexual Misconduct (2020).
 - McGuire AL et al. 2024. Developing an ethics and policy framework for psychedelic clinical care. *JAMA Netw Open*.
 - Jacobs E et al. 2024. HOPE Working Group consensus statement. *Am J Bioeth*.
@@ -129,7 +129,7 @@ Almost none of the practices below has been tested in a randomized trial of **pr
 - McHerron et al. 2025. Therapeutic touch in psychedelic-assisted therapy. *Ther Adv Psychopharmacol*.
 - Neuroethics 2026. Informed consent processes for psilocybin services (qualitative study).
 - Brittain et al. 2025. Ethical issues and recommendations in psychedelic research and practice: a scoping review. *J Bioeth Inq*.
-- Smith WR & Sisti D. 2020. Ethics and ego dissolution: the case of psilocybin. *J Med Ethics* **[verify]**.
+- Smith WR & Sisti D. Ethics and ego dissolution: the case of psilocybin. *J Med Ethics* 2021;47(12):807–814 (published online 27 May 2020). DOI 10.1136/medethics-2020-106070.
 - Jacobs 2023 on transformative experience and consent; Villiger 2024 on consent to the ineffable.
 - College of Alberta Psychologists. PAPT practice guideline (30 June 2025); Alberta Psychedelic Drug Treatment Services Standards (2023).
 - Oregon Health Authority psilocybin services rules (OAR 333-333-5120); Colorado 4 CCR 755-1.
@@ -139,7 +139,7 @@ Almost none of the practices below has been tested in a randomized trial of **pr
 - ANA Code (2025); CNA Code (2025); CMA Code (2018).
 - Richard & Levine 2025 on psychological support vs psychotherapy (*Psychedelic Medicine*).
 - FTC Cooling-Off Rule (16 CFR Part 429) as a consumer-protection analogy.
-- Simionato GK & Simpson S. 2018. Personal risk factors associated with burnout among psychotherapists. *J Clin Psychol* **[verify]**.
+- Simionato GK & Simpson S. 2018. Personal risk factors associated with burnout among psychotherapists. *J Clin Psychol* 2018;74(9):1431–1456. DOI 10.1002/jclp.22615.
 - Johnson, Richards & Griffiths 2008; Schlag et al. 2022 (see the per-drug file).
 
 ## Disclaimer
