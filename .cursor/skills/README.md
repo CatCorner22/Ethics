@@ -1,0 +1,3 @@
+# Project skills (Cursor Web / Cloud)
+
+This folder ships **living-reference** and **one-way-optimal-language** as repo project skills so they appear in Cursor **Web** and **Cloud Agents** when this repository is the opened workspace (`/.cursor/skills/<name>/` with `name` in each `SKILL.md` matching the folder). Open a new chat, type `/`, and search for those skill names. For longer install notes and desktop global install, see the Project store guides at `/cursor/stores/self/docs/living-reference-skill.md` and `one-way-optimal-language-skill.md`. On Cursor Desktop you can also use **Settings → Agents → Sync Skills** to push personal skills from `~/.cursor/skills/` to Cloud Agents.
